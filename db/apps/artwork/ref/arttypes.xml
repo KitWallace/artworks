@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artypes>
+    <arttype>
+        <name>Focus</name>
+        <icon>assets/focus.png</icon>
+    </arttype>
+    <arttype>
+        <name>Commemorative</name>
+        <icon>assets/blue_MarkerC.png</icon>
+    </arttype>
+    <arttype>
+        <name>Free Standing</name>
+        <name>Freestanding</name>
+        <icon>assets/red_MarkerF.png</icon>
+    </arttype>
+   
+    <arttype>
+        <name>Integrated</name>
+        <icon>assets/paleblue_MarkerB.png</icon>
+    </arttype>
+    <arttype>
+        <name>Interior</name>
+        <icon>assets/yellow_MarkerI.png</icon>
+    </arttype>
+    <arttype>
+        <name>Street Furniture</name>
+        <icon>assets/green_MarkerS.png</icon>
+    </arttype>
+    <arttype>
+        <name>Temporary</name>
+        <icon>assets/brown_MarkerT.png</icon>
+    </arttype>
+  
+</artypes>
