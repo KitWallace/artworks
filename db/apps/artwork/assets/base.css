@@ -1,0 +1,61 @@
+body {
+    background-color:  #D8D8D8;
+    padding-right: 20px;    padding-left: 20px; 
+    font-family: 'Gentium Book Basic', serif; font-size:14pt;
+    font-size: 14pt; color: #5E5853;
+}
+
+h1,h2,h3 {
+    color: #055; margin:0;  margin-botton:2px;
+    font-family: 'Merriweather Sans';
+}
+h1 {
+    font-size:18pt;
+}
+h2 {
+    font-size: 16pt; 
+}
+h3 {
+    font-size:14pt;
+}
+div {font-family: 'Gentium Book Basic', serif; font-size:16pt; margin-bottom:5px;}
+
+div.small {font-family: 'Gentium Book Basic', serif; font-size:12pt;}
+
+span {padding-right: 10px}
+table {margin-top:5px;}
+tr {margin-top:2px;}
+th {text-align:left;  vertical-align:top; font-family: 'Merriweather Sans'; font-size:12pt; color: #055;}
+td {font-family: 'Gentium Book Basic', serif; font-size:12pt;}
+
+ul {margin-top:0px;}
+li {margin-top:4px; font-family: 'Gentium Book Basic', serif; font-size:12pt;}
+
+form {margin-top:10px; font-family: 'Gentium Book Basic', serif; font-size:14pt;}
+
+a {
+    text-decoration:none;
+    color: #11E;
+}
+
+a:visited {
+    color: #59A;
+}
+
+a.external {
+    background-image: url('Icon_External_Link.png');
+    padding-right: 12px;
+    text-decoration: none;
+    background-position: right;
+    background-repeat:no-repeat;
+}
+.text {margin:10px}
+
+#map_text {position:relative; left:0; width:50%; height:600px; overflow:auto;}
+/*
+#map_canvas {position: absolute; top: 50px; right:5px; width: 48%; height:600px; }
+*/
+.full_canvas {position: absolute; top: 100px; right:5px; width: 95%; height:600px; }
+.half_canvas {position: absolute; top: 50px; right:5px; width: 48%; height:600px; }
+
+#photo {position: absolute; top: 100px; right:5px; width: 48%; height:600px; }
