@@ -1,0 +1,4181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artworks>
+    <artwork>
+        <id>CDF-1</id>
+        <Artist>Richard Harris</Artist>
+        <Year>2006</Year>
+        <Title>A Meeting Place on the Plinth</Title>
+        <Road>The Senedd, Pierhead Street</Road>
+        <Area>Butetown</Area>
+        <Type>Integrated</Type>
+        <Teitl>Man Cyfarfod ar y Plinth</Teitl>
+        <Celfyddydwr>Richard Harris</Celfyddydwr>
+        <Blwyddyn>2006</Blwyddyn>
+        <Ffordd>Y Senedd, Stryd Pen y Lanfa</Ffordd>
+        <Ystyr>Mae�r ardal eistedd crwm yn rhoi lle clos i bobl eistedd a threulio amser ac mae wedi ei adeiladu o�r un llechi ag a ddefnyddir yn y Senedd i gyd.</Ystyr>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/A Meeting Place on the Plinth.jpg</URL>
+        <city>Cardiff</city>
+        <easting>319357</easting>
+        <northing>174451</northing>
+        <latitude>51.463264</latitude>
+        <longitude>-3.162231</longitude>
+        <description>The curved seating area provides an intimate space for people to spend time in and is constructed from the same Welsh slate that is used throughout the Senedd.</description>
+    </artwork>
+    <artwork>
+        <id>CDF-2</id>
+        <Artist>Kevin Atherton</Artist>
+        <Year>1995</Year>
+        <Title>A Private View</Title>
+        <Road>A4232 Butetown Road Link</Road>
+        <Area>Grangetown</Area>
+        <Type>Freestanding</Type>
+        <Teitl>Golygfa Breifat</Teitl>
+        <Celfyddydwr>Kevin Atherton</Celfyddydwr>
+        <Blwyddyn>1995</Blwyddyn>
+        <Ffordd>Ffordd Gyswllt Butetown yr A4232</Ffordd>
+        <Ystyr>Sefwch y tu �l i�r delw efydd a mwynhewch yr olygfa hon drwy sff�r ddur gwrthstaen yr Eglwys Norwyaidd sydd wedi ei lleoli gyferbyn � Bae Caerdydd.</Ystyr>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/A Private View.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318179</easting>
+        <northing>173602</northing>
+        <latitude>51.455462</latitude>
+        <longitude>-3.178988</longitude>
+        <description>Stand behind the bronze figure and enjoy his view through the stainless steel sphere of the Norwegian Church located on the opposite side of Cardiff Bay.</description>
+    </artwork>
+    <artwork>
+        <id>CDF-3</id>
+        <Artist>Andrew Rowe</Artist>
+        <Year>1999</Year>
+        <Title>Adventurer's Quay Bridge</Title>
+        <Road>Adventurer's Quay, Roath Basin</Road>
+        <Area>Butetown</Area>
+        <Type>Street Furniture</Type>
+        <Teitl>Pont Cei�r Anturiwr</Teitl>
+        <Celfyddydwr>Andrew Rowe</Celfyddydwr>
+        <Blwyddyn>1999</Blwyddyn>
+        <Ffordd>Cei'r Anturiwr, Basn y Rhath</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Adventurer's Quay Bridge.jpg</URL>
+        <city>Cardiff</city>
+        <easting>319656</easting>
+        <northing>174600</northing>
+        <latitude>51.464646</latitude>
+        <longitude>-3.157962</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-4</id>
+        <Artist>David Mackie and Andrew Rowe</Artist>
+        <Year>1999</Year>
+        <Title>Adventurer's Quay Mosaic and Car Park Grilles</Title>
+        <Road>Adventurer's Quay, Roath Basin</Road>
+        <Area>Butetown</Area>
+        <Type>Integrated</Type>
+        <Teitl>Mosaig a Dellt Maes Parcio Cei�r Anturiwr</Teitl>
+        <Celfyddydwr>David Mackie ac Andrew Rowe</Celfyddydwr>
+        <Blwyddyn>1999</Blwyddyn>
+        <Ffordd>Cei'r Anturiwr, Basn y Rhath</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Adventurer's Quay Mosaic and Car Park Grilles.jpg</URL>
+        <city>Cardiff</city>
+        <easting>319689</easting>
+        <northing>174571</northing>
+        <latitude>51.46439</latitude>
+        <longitude>-3.15748</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-5</id>
+        <Artist>Brian Fell</Artist>
+        <Year>2001</Year>
+        <Title>All Hands</Title>
+        <Road>Custom House Street</Road>
+        <Area>Cathays</Area>
+        <Type>Freestanding</Type>
+        <Teitl>Yr Holl Ddwylo</Teitl>
+        <Celfyddydwr>Brian Fell</Celfyddydwr>
+        <Blwyddyn>2001</Blwyddyn>
+        <Ffordd>Heol y Tollty</Ffordd>
+        <Ystyr>Mae �All Hands� wedi ei leoli ar lwybr hanesyddol Camlas Morgannwg ac mae�n darlunio�r gweithwyr camlas yn tynnu eu cychod yn eu blaen gyda rhaffau trymion.</Ystyr>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/All Hands.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318432</easting>
+        <northing>175931</northing>
+        <latitude>51.476436</latitude>
+        <longitude>-3.175885</longitude>
+        <description>Located on the path of the historic Glamorganshire Canal, 'All Hands' depicts the canal workers pulling their boats along with heavy ropes.</description>
+    </artwork>
+    <artwork>
+        <id>CDF-6</id>
+        <Artist>Percy Thomas and Son</Artist>
+        <Year>1930</Year>
+        <Title>Allegories of Drapery Business</Title>
+        <Road>Howells, St Mary Street</Road>
+        <Area>Cathays</Area>
+        <Type>Integrated</Type>
+        <Teitl>Alegor�au'r Busnes Dilladaeth</Teitl>
+        <Celfyddydwr>Percy Thomas a�i Fab</Celfyddydwr>
+        <Blwyddyn>1930</Blwyddyn>
+        <Ffordd>Howells, Heol Eglwys Fair</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Allegories of Drapery Business.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318254</easting>
+        <northing>176248</northing>
+        <latitude>51.47926</latitude>
+        <longitude>-3.178521</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-7</id>
+        <Artist>William Taylor</Artist>
+        <Year>1896</Year>
+        <Title>Allegories of Literature, Calligraphy and Printing</Title>
+        <Road>The Old Library, Hayes Island</Road>
+        <Area>Cathays</Area>
+        <Type>Integrated</Type>
+        <Teitl>Alegor�au Llenyddiaeth, Caligraffeg ac Argraffu</Teitl>
+        <Celfyddydwr>William Taylor</Celfyddydwr>
+        <Blwyddyn>1896</Blwyddyn>
+        <Ffordd>Yr Hen Lyfrgell, Ynys yr Aes</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Allegories of Literature, Calligraphy and Printing.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318360</easting>
+        <northing>176326</northing>
+        <latitude>51.479976</latitude>
+        <longitude>-3.177013</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-8</id>
+        <Artist>Percy Thomas and Son</Artist>
+        <Year>1938</Year>
+        <Title>Allegories of Medicine, Law and Agriculture</Title>
+        <Road>Bute Building, Civic Centre</Road>
+        <Area>Cathays</Area>
+        <Type>Integrated</Type>
+        <Teitl>Alegor�au Meddyginiaeth, y Gyfraith ac Amaethyddiaeth</Teitl>
+        <Celfyddydwr>Percy Thomas a�i Fab</Celfyddydwr>
+        <Blwyddyn>1938</Blwyddyn>
+        <Ffordd>Adeilad Bute, Y Ganolfan Ddinesig</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Allegories of Medicine, Law and Agriculture.jpg</URL>
+        <city>Cardiff</city>
+        <easting>317949</easting>
+        <northing>177155</northing>
+        <latitude>51.487369</latitude>
+        <longitude>-3.183123</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-9</id>
+        <Artist>William Taylor</Artist>
+        <Year>1896</Year>
+        <Title>Allegories of Study and Rhetoric</Title>
+        <Road>The Old Library, Trinity Street</Road>
+        <Area>Cathays</Area>
+        <Type>Integrated</Type>
+        <Teitl>Alegor�au Astudiaeth ac Areitheg</Teitl>
+        <Celfyddydwr>William Taylor</Celfyddydwr>
+        <Blwyddyn>1896</Blwyddyn>
+        <Ffordd>Yr Hen Lyfrgell, Heol y Drindod</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Allegories of Study and Rhetoric.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318332</easting>
+        <northing>176336</northing>
+        <latitude>51.480062</latitude>
+        <longitude>-3.177419</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-10</id>
+        <Artist>Ray Smith</Artist>
+        <Year>2004</Year>
+        <Title>Angelina Street</Title>
+        <Road>Angelina Street</Road>
+        <Area>Butetown</Area>
+        <Type>Street Furniture</Type>
+        <Teitl>Stryd Angelina</Teitl>
+        <Celfyddydwr>Ray Smith</Celfyddydwr>
+        <Blwyddyn>2004</Blwyddyn>
+        <Ffordd>Stryd Angelina</Ffordd>
+        <Ystyr>Mae�r rheiliau dur a�r platiau efydd yn adlewyrchu defnydd y caeau chwarae cyfagos ac wedi eu dylunio mewn cydweithrediad � phreswylwyr lleol a phlant ysgol.</Ystyr>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Angelina Street.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318620</easting>
+        <northing>175419</northing>
+        <latitude>51.47186</latitude>
+        <longitude>-3.173061</longitude>
+        <description>The steel railings and bronze plaques reflect the use of the adjoining playing fields and were designed in collaboration with local residents and school children.</description>
+    </artwork>
+    <artwork>
+        <id>CDF-11</id>
+        <Artist>Thomas Nicholls (and Alexander Carrick 1931)</Artist>
+        <Year>1888</Year>
+        <Title>Animal Wall</Title>
+        <Road>Castle Street</Road>
+        <Area>Cathays</Area>
+        <Type>Integrated</Type>
+        <Teitl>Wal yr Anifeiliaid</Teitl>
+        <Celfyddydwr>Thomas Nicholls (ac Alexander Carrick 1931)</Celfyddydwr>
+        <Blwyddyn>1888</Blwyddyn>
+        <Ffordd>Heol y Castell</Ffordd>
+        <Ystyr>Yn wreiddiol roedd naw anifail ar y Wal ac roedd wedi ei lleoli y tu allan i Gastell Caerdydd. Ychwanegwyd chwe anifail newydd pan gafod ei symud i�w lleoliad presennol yn y 1920au.</Ystyr>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Animal Wall.jpg</URL>
+        <city>Cardiff</city>
+        <easting>317932</easting>
+        <northing>176459</northing>
+        <latitude>51.48111</latitude>
+        <longitude>-3.183206</longitude>
+        <description>The Wall originally consisted of nine animals and was located outside Cardiff Castle. Six new animals were added when it was moved to its current location in the 1920's.</description>
+    </artwork>
+    <artwork>
+        <id>CDF-12</id>
+        <Artist>Jonathon Williams</Artist>
+        <Year>2003</Year>
+        <Title>Antarctic 100 - Captain Scott Memorial</Title>
+        <Road>Waterfront Park, Cardiff Bay</Road>
+        <Area>Butetown</Area>
+        <Type>Commemorative</Type>
+        <Teitl>Antarctig100 � Cofeb Capten Scott</Teitl>
+        <Celfyddydwr>Jonathon Williams</Celfyddydwr>
+        <Blwyddyn>2003</Blwyddyn>
+        <Ffordd>Parc y Glannau, Bae Caerdydd</Ffordd>
+        <Ystyr>Mae�r cerflun mosaig yn edrych allan dros y fan yn y Bae ble hwyliodd y Terranova, llong Capten Scott, allan o Gaerdydd yn 1910 ar ei mordaith angheuol i Begwn y De.</Ystyr>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Antarctic 100 - Captain Scott Memorial.jpg</URL>
+        <city>Cardiff</city>
+        <easting>319392</easting>
+        <northing>174218</northing>
+        <latitude>51.461174</latitude>
+        <longitude>-3.161674</longitude>
+        <description>The mosaic sculpture overlooks the point in the Bay where Captain Scott's ship the Terranova set sail from Cardiff in 1910 on its ill-fated trip to the South Pole.</description>
+    </artwork>
+    <artwork>
+        <id>CDF-13</id>
+        <Artist>Doug Cocker</Artist>
+        <Year>1991</Year>
+        <Title>Atlantic</Title>
+        <Road>Tyndall Street</Road>
+        <Area>Butetown</Area>
+        <Type>Freestanding</Type>
+        <Teitl>Yr Iwerydd</Teitl>
+        <Celfyddydwr>Doug Cocker</Celfyddydwr>
+        <Blwyddyn>1991</Blwyddyn>
+        <Ffordd>Tyndall Street</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Atlantic.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318964</easting>
+        <northing>175953</northing>
+        <latitude>51.47671</latitude>
+        <longitude>-3.168232</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-14</id>
+        <Artist>Dan Archer</Artist>
+        <Year>2000</Year>
+        <Title>Atlantic Echo</Title>
+        <Road>Ocean Way</Road>
+        <Area>Splott</Area>
+        <Type>Freestanding</Type>
+        <Teitl>Atsain yr Iwerydd</Teitl>
+        <Celfyddydwr>Dan Archer</Celfyddydwr>
+        <Blwyddyn>2000</Blwyddyn>
+        <Ffordd>Ocean Way</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Atlantic Echo.jpg</URL>
+        <city>Cardiff</city>
+        <easting>319880</easting>
+        <northing>175677</northing>
+        <latitude>51.47436</latitude>
+        <longitude>-3.154982</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-15</id>
+        <Artist>Charles I'Anson</Artist>
+        <Year>1975</Year>
+        <Title>Awen</Title>
+        <Road>Welsh College of Music and Drama, North Road</Road>
+        <Area>Cathays</Area>
+        <Type>Freestanding</Type>
+        <Teitl>Awen</Teitl>
+        <Celfyddydwr>Charles I'Anson</Celfyddydwr>
+        <Blwyddyn>1975</Blwyddyn>
+        <Ffordd>Coleg Cerdd a Drama Cymru, Heol y Gogledd</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Awen.jpg</URL>
+        <city>Cardiff</city>
+        <easting>317908</easting>
+        <northing>177010</northing>
+        <latitude>51.48606</latitude>
+        <longitude>-3.18368</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-16</id>
+        <Artist>Martin Williams</Artist>
+        <Year>1993</Year>
+        <Title>Bay Panels</Title>
+        <Road>Waterfront Park</Road>
+        <Area>Butetown</Area>
+        <Type>Integrated</Type>
+        <Teitl>Paneli�r Bae</Teitl>
+        <Celfyddydwr>Martin Williams</Celfyddydwr>
+        <Blwyddyn>1993</Blwyddyn>
+        <Ffordd>Parc y Glannau</Ffordd>
+        <Ystyr>Mae�r pob panel teracota sydd wedi ei osod ar waelod deuddeg lamp stryd a leolir o gwmpas Bae Caerdydd yn darlunio agwedd wahanol o ddiwylliant Gymreig.</Ystyr>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Bay Panels.jpg</URL>
+        <city>Cardiff</city>
+        <easting>319372</easting>
+        <northing>174350</northing>
+        <latitude>51.462358</latitude>
+        <longitude>-3.161992</longitude>
+        <description>Located on the base of twelve street lamps around Cardiff Bay's waterfront, each terracotta panel illustrates a different aspect of Welsh culture.</description>
+    </artwork>
+    <artwork>
+        <id>CDF-17</id>
+        <Artist>Gwen Heeney</Artist>
+        <Year>1994</Year>
+        <Title>Beastie Benches</Title>
+        <Road>Waterfront Park and Britannia Quay</Road>
+        <Area>Butetown</Area>
+        <Type>Street Furniture</Type>
+        <Teitl>Meinciau Bwystfilod</Teitl>
+        <Celfyddydwr>Gwen Heeney</Celfyddydwr>
+        <Blwyddyn>1994</Blwyddyn>
+        <Ffordd>Parc y Glannau a Chei Britannia</Ffordd>
+        <Ystyr>Cafodd y naw mainc bric cerfiedig eu hysbrydoli gan y creaduriaid a ddisgrifir yng ngherdd Dylan Thomas �The ballad of the long legged bait�.</Ystyr>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Beastie Benches.jpg</URL>
+        <city>Cardiff</city>
+        <easting>319429</easting>
+        <northing>174361</northing>
+        <latitude>51.462465</latitude>
+        <longitude>-3.161174</longitude>
+        <description>The nine carved brick benches were inspired by the creatures described in the Dylan Thomas poem 'The ballad of the long legged bait'.</description>
+    </artwork>
+    <artwork>
+        <id>CDF-18</id>
+        <Artist>David Petersen</Artist>
+        <Year>1997</Year>
+        <Title>Billy The Seal</Title>
+        <Road>Victoria Park</Road>
+        <Area>Canton</Area>
+        <Type>Freestanding</Type>
+        <Teitl>Billy y Morlo</Teitl>
+        <Celfyddydwr>David Petersen</Celfyddydwr>
+        <Blwyddyn>1997</Blwyddyn>
+        <Ffordd>Parc Fictoria</Ffordd>
+        <Ystyr>Wedi iddo gael ei achub o rwydi cwch pysgota a weithiai o Ddociau Caerdydd, bu �Billy' y morlo�n byw yn Llyn Parc Fictoria o 1912 tan ei farwolaeth yn 1939.</Ystyr>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Billy The Seal.jpg</URL>
+        <city>Cardiff</city>
+        <easting>315491</easting>
+        <northing>176860</northing>
+        <latitude>51.484355</latitude>
+        <longitude>-3.218445</longitude>
+        <description>Having been rescued from the nets of a fishing boat operating out of Cardiff Docks, 'Billy' the Seal lived in Victoria Park Lake from 1912 until his death in 1939.</description>
+    </artwork>
+    <artwork>
+        <id>CDF-19</id>
+        <Artist>Bradley Woods and Andrew Hartford</Artist>
+        <Year>2004</Year>
+        <Title>Black Bridge</Title>
+        <Road>Adamsdown Lane</Road>
+        <Area>Splott</Area>
+        <Type>Street Furniture</Type>
+        <Teitl>Y Bont Ddu</Teitl>
+        <Celfyddydwr>Bradley Woods ac Andrew Hartford</Celfyddydwr>
+        <Blwyddyn>2004</Blwyddyn>
+        <Ffordd>Adamsdown Lane</Ffordd>
+        <Ystyr>Roedd yr artistiaid yn gweithio gyda phobl ifanc o�r ganolfan gymuned leol i wella cyflwr y llwybr allweddol hwn rhwng cymunedau Adamsdown a Sblot.</Ystyr>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Black Bridge.jpg</URL>
+        <city>Cardiff</city>
+        <easting>319517</easting>
+        <northing>176372</northing>
+        <latitude>51.480556</latitude>
+        <longitude>-3.160367</longitude>
+        <description>The artists worked with young people from the local community centre to improve the condition of this key route between the communities of Adamsdown and Splott.</description>
+    </artwork>
+    <artwork>
+        <id>CDF-20</id>
+        <Artist>John Gingell</Artist>
+        <Year>1994</Year>
+        <Title>Blue Flash, Power Box and Mesh Chips</Title>
+        <Road>Tyndall Street</Road>
+        <Area>Butetown</Area>
+        <Type>Freestanding</Type>
+        <Teitl>Fflach Las, Bocs P?er a Sglodion Rhwyll</Teitl>
+        <Celfyddydwr>John Gingell</Celfyddydwr>
+        <Blwyddyn>1994</Blwyddyn>
+        <Ffordd>Tyndall Street</Ffordd>
+        <Ystyr>Mae dylunio artistig wedi helpu i droi'r is-orsaf ddominyddol a hynod amlwg hwn yn dirnod cadarnhaol ac adnabyddus i'r ddinas.</Ystyr>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Blue Flash, Power Box and Mesh Chips.jpg</URL>
+        <city>Cardiff</city>
+        <easting>319271</easting>
+        <northing>176076</northing>
+        <latitude>51.47786</latitude>
+        <longitude>-3.16384</longitude>
+        <description>Artistic design has helped turn this dominant and highly visible sub-station into a positive and recognisable landmark for the city.</description>
+    </artwork>
+    <artwork>
+        <id>CDF-21</id>
+        <Artist>Barbara Hepworth</Artist>
+        <Year>1968</Year>
+        <Title>Three Obliques (Walk In)</Title>
+        <Road>Corbett Road</Road>
+        <Area>Cathays</Area>
+        <Type>Freestanding</Type>
+        <Teitl>Y Tair Arosgo (Cerdded I Mewn)</Teitl>
+        <Celfyddydwr>Barbara Hepworth</Celfyddydwr>
+        <Blwyddyn>1968</Blwyddyn>
+        <Ffordd>Corbett Road</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Three Obliques (Walk In).jpg</URL>
+        <city>Cardiff</city>
+        <easting>317927</easting>
+        <northing>177348</northing>
+        <latitude>51.489101</latitude>
+        <longitude>-3.183485</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-22</id>
+        <Artist>William Taylor</Artist>
+        <Year>1896</Year>
+        <Title>Bust of Pallas Athena</Title>
+        <Road>The Old Library, Hayes Island</Road>
+        <Area>Cathays</Area>
+        <Type>Integrated</Type>
+        <Teitl>Penddelw Pallas Athena</Teitl>
+        <Celfyddydwr>William Taylor</Celfyddydwr>
+        <Blwyddyn>1896</Blwyddyn>
+        <Ffordd>Yr Hen Lyfrgell, Yr Aes</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Bust of Pallas Athena.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318350</easting>
+        <northing>176321</northing>
+        <latitude>51.47993</latitude>
+        <longitude>-3.177156</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-23</id>
+        <Artist>Andrew Rowe, David Mackie and Heather Parnell</Artist>
+        <Year>2001</Year>
+        <Title>Bute Street Works</Title>
+        <Road>Bute Street</Road>
+        <Area>Butetown</Area>
+        <Type>Street Furniture</Type>
+        <Teitl>Gwaith Stryd Bute</Teitl>
+        <Celfyddydwr>David Mackie, Andrew Rowe a Heather Parnell</Celfyddydwr>
+        <Blwyddyn>2001</Blwyddyn>
+        <Ffordd>Stryd Bute</Ffordd>
+        <Ystyr>Mae'r slabiau palfin a'r bolardiau dur sydd wedi eu lleoli ar hyd Bute Street yn cynrychioli chwe thema o'r gymuned leol, gan gynnwys: chwedlau lleol, tirnodau a masnach.</Ystyr>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Bute Street Works.jpg</URL>
+        <city>Cardiff</city>
+        <easting>319034</easting>
+        <northing>174912</northing>
+        <latitude>51.467362</latitude>
+        <longitude>-3.166985</longitude>
+        <description>The paving slabs and steel bollards positioned along Bute Street represent six themes from the local community, including: local legends, landmarks and trades.</description>
+    </artwork>
+    <artwork>
+        <id>CDF-24</id>
+        <Artist>Philip Bews and Diane Gorvin</Artist>
+        <Year>2003</Year>
+        <Title>C-Interludes</Title>
+        <Road>Lloyd George Avenue</Road>
+        <Area>Butetown</Area>
+        <Type>Freestanding</Type>
+        <Teitl>Interliwd-C</Teitl>
+        <Celfyddydwr>Philip Bews a Diane Gorvin</Celfyddydwr>
+        <Blwyddyn>2003</Blwyddyn>
+        <Ffordd>Rhodfa Lloyd George</Ffordd>
+        <Ystyr>Mae darnau celf sydd wedi eu lleoli mewn pum man ar hyd Rhodfa Lloyd George, yn cyfleu natur morwrol yr ardal ac wedi eu haddurno � cherfluniau efydd fel pysgol a gwylanod.</Ystyr>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/C-Interludes.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318995</easting>
+        <northing>175224</northing>
+        <latitude>51.470161</latitude>
+        <longitude>-3.167618</longitude>
+        <description>Located at five points along Lloyd George Avenue, the artworks evoke the maritime nature of the area and are adorned with bronze sculptures including fish and seagulls.</description>
+    </artwork>
+    <artwork>
+        <id>CDF-25</id>
+        <Artist>William Pye</Artist>
+        <Year>1999</Year>
+        <Title>Cader Idris</Title>
+        <Road>Wetlands Reserve, Cardiff Bay</Road>
+        <Area>Butetown</Area>
+        <Type>Freestanding</Type>
+        <Teitl>Cader Idris</Teitl>
+        <Celfyddydwr>William Pye</Celfyddydwr>
+        <Blwyddyn>1999</Blwyddyn>
+        <Ffordd>Gwarchodfa Gwlyptiroedd, Bae Caerdydd</Ffordd>
+        <Ystyr>Cafodd y cerflun gwenithfaen ei ysbrydoli gan fynyddoedd, llynnoedd a dyffrynnoedd Cymru a Chadair Idris yn benodol.</Ystyr>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Cader Idris.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318663</easting>
+        <northing>174027</northing>
+        <latitude>51.459353</latitude>
+        <longitude>-3.172121</longitude>
+        <description>This sandstone sculpture was inspired by the mountains, lakes and valleys of Wales and in particular 'Cader Idris' in Snowdonia.</description>
+    </artwork>
+    <artwork>
+        <id>CDF-26</id>
+        <Artist>Martin Williams</Artist>
+        <Year>1994</Year>
+        <Title>Canal Park Entrance</Title>
+        <Road>James Street</Road>
+        <Area>Butetown</Area>
+        <Type>Freestanding</Type>
+        <Teitl>Mynedfa Parc y Gamlas</Teitl>
+        <Celfyddydwr>Martin Williams</Celfyddydwr>
+        <Blwyddyn>1994</Blwyddyn>
+        <Ffordd>James Street</Ffordd>
+        <Ystyr>Mae�r pedwar panel a leolir ar lwybr hanesyddol Camlas Morgannwg yn adlewyrchu cloddio am lo yn Nyffrynoedd De Cymru a�i allforio o Ddociau Caerdydd.</Ystyr>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Canal Park Entrance.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318829</easting>
+        <northing>174608</northing>
+        <latitude>51.4646</latitude>
+        <longitude>-3.169866</longitude>
+        <description>Located on the path of the historic Glamorganshire Canal, the four panels reflect the mining of coal in the South Wales Valleys and its export form Cardiff Docks.</description>
+    </artwork>
+    <artwork>
+        <id>CDF-27</id>
+        <Artist>Rob Turner</Artist>
+        <Year>2003</Year>
+        <Title>Cardiff Central Station Mosaics</Title>
+        <Road>Central Square</Road>
+        <Area>Cathays</Area>
+        <Type>Integrated</Type>
+        <Teitl>Mosaig Gorsaf Ganolog Caerdydd</Teitl>
+        <Celfyddydwr>Rob Turner</Celfyddydwr>
+        <Blwyddyn>2003</Blwyddyn>
+        <Ffordd>Y Sgw�r Canolog</Ffordd>
+        <Ystyr>Mae�r mosaigs dwyieithog hyn yn darlunio�r amrywiaeth o bobl wahanol sydd wedi gweithio yng Ngorsaf Ganolog Caerdydd a defnyddio�i gwasanaethau drwy gydol y ganrif ddiwethaf.</Ystyr>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Cardiff Central Station Mosaics.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318145</easting>
+        <northing>175905</northing>
+        <latitude>51.47616</latitude>
+        <longitude>-3.180011</longitude>
+        <description>These bilingual mosaics depict the range of different people who have worked at Cardiff Centre Station and used its services over the course of the past century.</description>
+    </artwork>
+    <artwork>
+        <id>CDF-28</id>
+        <Artist>Alan Dawson Associates</Artist>
+        <Year>1993</Year>
+        <Title>Cardiff International Arena</Title>
+        <Road>Mary Ann Street</Road>
+        <Area>Cathays</Area>
+        <Type>Integrated</Type>
+        <Teitl>Arena Ryngwladol Caerdydd</Teitl>
+        <Celfyddydwr>Alan Dawson Associates</Celfyddydwr>
+        <Blwyddyn>1993</Blwyddyn>
+        <Ffordd>Heol Mary Ann</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Cardiff International Arena.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318683</easting>
+        <northing>176174</northing>
+        <latitude>51.478656</latitude>
+        <longitude>-3.172328</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-29</id>
+        <Artist>Brian Fell</Artist>
+        <Year>2000</Year>
+        <Title>Cargoes</Title>
+        <Road>Bute Street and Stuart Street</Road>
+        <Area>Butetown</Area>
+        <Type>Integrated</Type>
+        <Teitl>Cargoau</Teitl>
+        <Celfyddydwr>Brian Fell</Celfyddydwr>
+        <Blwyddyn>2000</Blwyddyn>
+        <Ffordd>Stryd Bute a Stryd Stuart</Ffordd>
+        <Ystyr>Mae�r gwaith celf yn cynnwys 21 cerflun sydd wedi eu lleoli ar yr adeiladau o gwmpas Cei'r F�r-Forwyn ac maent yn cynrychioli amrywiol rannau o�r gerdd �Cargoes� gan John Masefield.</Ystyr>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Cargoes.jpg</URL>
+        <city>Cardiff</city>
+        <easting>319108</easting>
+        <northing>174448</northing>
+        <latitude>51.463201</latitude>
+        <longitude>-3.165814</longitude>
+        <description>The artwork consists of 21 sculptures which are located on the buildings around Mermaid Quay and represent various parts of the poem 'Cargoes' by John Masefield.</description>
+    </artwork>
+    <artwork>
+        <id>CDF-30</id>
+        <Artist>Harvey Hood</Artist>
+        <Year>1993</Year>
+        <Title>Celtic Ring</Title>
+        <Road>Roald Dahl Plass</Road>
+        <Area>Butetown</Area>
+        <Type>Freestanding</Type>
+        <Teitl>Y Fodrwy Geltaidd</Teitl>
+        <Celfyddydwr>Harvey Hood</Celfyddydwr>
+        <Blwyddyn>1993</Blwyddyn>
+        <Ffordd>Plas Roald Dahl</Ffordd>
+        <Ystyr>Mae'r cylch yn nodi dechrau Taith y Taf sy'n 55 milltir rhwng Aberhonddu a Chaerdydd. Mae'r arwyneb gweadog yn cynnwys manylion gan gynnwys siartiau'r llanw sy'n gysylltiedig � Dociau Caerdydd.</Ystyr>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Celtic Ring.jpg</URL>
+        <city>Cardiff</city>
+        <easting>319224</easting>
+        <northing>174437</northing>
+        <latitude>51.463119</latitude>
+        <longitude>-3.164142</longitude>
+        <description>The ring marks the start of the 55 mile Taff Trail between Brecon an Cardiff. It's textured surface contains maritime details including tidal charts associated with Cardiff's Docks.</description>
+    </artwork>
+    <artwork>
+        <id>CDF-32</id>
+        <Artist>Andrew Handyside and Co</Artist>
+        <Year>1891</Year>
+        <Title>Central Market</Title>
+        <Road>Trinity Street</Road>
+        <Area>Cathays</Area>
+        <Type>Integrated</Type>
+        <Teitl>Y Farchnad Ganolog</Teitl>
+        <Celfyddydwr>Andrew Handyside a�i Gwmni</Celfyddydwr>
+        <Blwyddyn>1891</Blwyddyn>
+        <Ffordd>Heol y Drindod</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Central Market.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318281</easting>
+        <northing>176370</northing>
+        <latitude>51.48036</latitude>
+        <longitude>-3.178161</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-33</id>
+        <Artist>Albert Hodge</Artist>
+        <Year>1904</Year>
+        <Title>City Hall Clock Tower</Title>
+        <Road>City Hall, Civic Centre</Road>
+        <Area>Cathays</Area>
+        <Type>Integrated</Type>
+        <Teitl>T?r Cloc Neuadd y Ddinas</Teitl>
+        <Celfyddydwr>Albert Hodge</Celfyddydwr>
+        <Blwyddyn>1904</Blwyddyn>
+        <Ffordd>Neuadd y Ddinas, Y Ganolfan Ddinesig</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/City Hall Clock Tower.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318241</easting>
+        <northing>176882</northing>
+        <latitude>51.484957</latitude>
+        <longitude>-3.178855</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-34</id>
+        <Artist>David Petersen</Artist>
+        <Year>1988</Year>
+        <Title>Coal, Steel and Water</Title>
+        <Road>County Hall, Hemingway Road</Road>
+        <Area>Butetown</Area>
+        <Type>Interior</Type>
+        <Teitl>Glo, Dur a D?r</Teitl>
+        <Celfyddydwr>David Petersen</Celfyddydwr>
+        <Blwyddyn>1988</Blwyddyn>
+        <Ffordd>Neuadd y Sir, Heol Hemingway</Ffordd>
+        <Ystyr>Wedi ei ysbrydoli gan hanes glofaol, dur a d?r yr ardaloedd. Mae�r pigynnau'n cynrychioli mastiau�r llongau ac mae�r darn canol yn cynnwys wagenni glo mewn rhes yn aros i gael eu dadlwytho.</Ystyr>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Coal, Steel and Water.jpg</URL>
+        <city>Cardiff</city>
+        <easting>319349</easting>
+        <northing>175152</northing>
+        <latitude>51.469564</latitude>
+        <longitude>-3.162506</longitude>
+        <description>Inspired by the areas history of coal, steel and water. The spikes represent the masts of the ships and the middle section contains coal trucks queuing to be unloaded.</description>
+    </artwork>
+    <artwork>
+        <id>CDF-35</id>
+        <Artist>Paul Raphael Montford</Artist>
+        <Year>1904</Year>
+        <Title>Commerce and Industry</Title>
+        <Road>Law Courts, Civic Centre</Road>
+        <Area>Cathays</Area>
+        <Type>Integrated</Type>
+        <Teitl>Masnach a Diwydiant</Teitl>
+        <Celfyddydwr>Paul Raphael Montford</Celfyddydwr>
+        <Blwyddyn>1904</Blwyddyn>
+        <Ffordd>Llysoedd Barn, Y Ganolfan Ddinesig</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Commerce and Industry.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318188</easting>
+        <northing>176817</northing>
+        <latitude>51.484365</latitude>
+        <longitude>-3.179603</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-36</id>
+        <Artist>Sebastien Boyesen</Artist>
+        <Year>1997</Year>
+        <Title>Compass Rose</Title>
+        <Road>Junction Lock, Britannia Quay</Road>
+        <Area>Butetown</Area>
+        <Type>Integrated</Type>
+        <Teitl>Cylch Cwmpawd</Teitl>
+        <Celfyddydwr>Sebastien Boyesen</Celfyddydwr>
+        <Blwyddyn>1997</Blwyddyn>
+        <Ffordd>Loc y Gyffordd, Cei Britannia</Ffordd>
+        <Ystyr>"Mae�r mosaig gwenithfaen yn cofnodi alldaith Capten Scott i Begwn y De yn 1910. Mae�r arysgrif yn darllen fel hyn: ""To strive, to seek, to find and not to yield""."</Ystyr>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Compass Rose.jpg</URL>
+        <city>Cardiff</city>
+        <easting>319492</easting>
+        <northing>174660</northing>
+        <latitude>51.465162</latitude>
+        <longitude>-3.160336</longitude>
+        <description>"The granite mosaic commemorates Captain Scott's expedition to the South Pole in 1910. Its inscription reads: ""To strive, to seek, to find and not to yield""."</description>
+    </artwork>
+    <artwork>
+        <id>CDF-37</id>
+        <Artist>Philip Chancer</Artist>
+        <Year>1995</Year>
+        <Title>Deconstruct</Title>
+        <Road>Ocean Park</Road>
+        <Area>Splott</Area>
+        <Type>Integrated</Type>
+        <Teitl>Dadfeilio</Teitl>
+        <Celfyddydwr>Philip Chancer</Celfyddydwr>
+        <Blwyddyn>1995</Blwyddyn>
+        <Ffordd>Parc y Cefnfor</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Deconstruct.jpg</URL>
+        <city>Cardiff</city>
+        <easting>319531</easting>
+        <northing>175927</northing>
+        <latitude>51.476557</latitude>
+        <longitude>-3.160063</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-38</id>
+        <Artist>Stefan Gec</Artist>
+        <Year>2000</Year>
+        <Title>Deep Navigation</Title>
+        <Road>Roald Dahl Plass</Road>
+        <Area>Butetown</Area>
+        <Type>Freestanding</Type>
+        <Teitl>Mordwyo</Teitl>
+        <Celfyddydwr>Stefan Gec</Celfyddydwr>
+        <Blwyddyn>2000</Blwyddyn>
+        <Ffordd>Plas Roald Dahl</Ffordd>
+        <Ystyr>Ar y�golofn�gyntaf mae enwau�r holl byllau glo De Cymru a oedd yn gweithio yn 1964.� Mae'r ail�golofn yn nodi�r porthladdoedd yr oedd Caerdydd yn allforio glo iddynt.</Ystyr>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Deep Navigation.jpg</URL>
+        <city>Cardiff</city>
+        <easting>319184</easting>
+        <northing>174542</northing>
+        <latitude>51.464057</latitude>
+        <longitude>-3.164742</longitude>
+        <description>The first pillar includes the names of all of the South Wales coal mines that were operational in 1964. The second pillar identifies all of the ports that Cardiff exported coal to.</description>
+    </artwork>
+    <artwork>
+        <id>CDF-39</id>
+        <Artist>Sally Ann Matthews</Artist>
+        <Year>2000</Year>
+        <Title>Drift of the Curlews</Title>
+        <Road>Havannah Street</Road>
+        <Area>Butetown</Area>
+        <Type>Freestanding</Type>
+        <Teitl>Y Gylfinirod</Teitl>
+        <Celfyddydwr>Sally Ann Matthews</Celfyddydwr>
+        <Blwyddyn>2000</Blwyddyn>
+        <Ffordd>Havannah Street</Ffordd>
+        <Ystyr>Mae�r haid o ylfinirod efydd wedi eu lleoli wrth ymyl Gwarchodfa Gwlypdir Bae Caerdydd ac maent yn adlewyrchu�r bywyd gwyllt llewyrchus yn yr ardal.</Ystyr>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Drift of the Curlews.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318955</easting>
+        <northing>174090</northing>
+        <latitude>51.459961</latitude>
+        <longitude>-3.167934</longitude>
+        <description>The group of bronze curlews are located next to the Cardiff Bay Wetlands Reserve and reflect the abundance of wildlife in the area.</description>
+    </artwork>
+    <artwork>
+        <id>CDF-40</id>
+        <Artist>Wills Brothers</Artist>
+        <Year>1860</Year>
+        <Title>Drinking Fountain</Title>
+        <Road>The Friary</Road>
+        <Area>Cathays</Area>
+        <Type>Integrated</Type>
+        <Teitl>Y Ffynnon Dd?r</Teitl>
+        <Celfyddydwr>Y Brodyr Wills</Celfyddydwr>
+        <Blwyddyn>1860</Blwyddyn>
+        <Ffordd>Heol T?�r Brodyr</Ffordd>
+        <Ystyr>Yn wreiddiol roedd y ffynnon yfed yn rhan o Neuadd y Dref yn Heol Eglwys Fair a chafodd ei hail-leoli pan chwalwyd yr adeilad yn 1914.</Ystyr>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Drinking Fountain.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318288</easting>
+        <northing>176748</northing>
+        <latitude>51.483759</latitude>
+        <longitude>-3.178148</longitude>
+        <description>The drinking fountain originally formed part of the Town Hall located in St Mary Street and was relocated when the building was demolished in 1914.</description>
+    </artwork>
+    <artwork>
+        <id>CDF-41</id>
+        <Artist>Howard Bowcott</Artist>
+        <Year>1993</Year>
+        <Title>Events Arena</Title>
+        <Road>Runway Road, Pengam Green</Road>
+        <Area>Splott</Area>
+        <Type>Freestanding</Type>
+        <Teitl>Arena Digwyddiadau</Teitl>
+        <Celfyddydwr>Howard Bowcott</Celfyddydwr>
+        <Blwyddyn>1993</Blwyddyn>
+        <Ffordd>Runway Road, Pengam Green</Ffordd>
+        <Ystyr>Mae�r ardal wedi cael ei dylunio i ffurfio man perfformio awyr agored naturiol. Mae�r blociau cerrig a chyfuchliniau'r lleiniau glaswellt yn darparu man eistedd o gwmpas y llwyfan ganolog.</Ystyr>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Events Arena.jpg</URL>
+        <city>Cardiff</city>
+        <easting>321270</easting>
+        <northing>177073</northing>
+        <latitude>51.487105</latitude>
+        <longitude>-3.135285</longitude>
+        <description>The area has been designed to form a natural outdoor performance space. The stone blocks and contours of the grass verges provide seating around a central stage.</description>
+    </artwork>
+    <artwork>
+        <id>CDF-42</id>
+        <Year>1983</Year>
+        <Title>Falkland Islands War Memorial</Title>
+        <Road>Alexandra Gardens, Civic Centre</Road>
+        <Area>Cathays</Area>
+        <Type>Commemorative</Type>
+        <Teitl>Cofeb Rhyfel Ynysoedd y Falklands</Teitl>
+        <Celfyddydwr>-</Celfyddydwr>
+        <Blwyddyn>1983</Blwyddyn>
+        <Ffordd>Gerddi Alexandra, Y Ganolfan Ddinesig</Ffordd>
+        <Ystyr>Cofeb i ddynion Caerdydd a laddwyd wrth ymladd yn ystod Rhyfel y Malvinas yn 1982.</Ystyr>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Falkland Islands War Memorial.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318093</easting>
+        <northing>177074</northing>
+        <latitude>51.486662</latitude>
+        <longitude>-3.181031</longitude>
+        <description>A memorial to the men of Cardiff who were killed in action during the Falkland Islands campaign in 1982.</description>
+    </artwork>
+    <artwork>
+        <id>CDF-43</id>
+        <Artist>Robert Thomas</Artist>
+        <Year>2005</Year>
+        <Title>Family Group</Title>
+        <Road>Churchill Way</Road>
+        <Area>Cathays</Area>
+        <Type>Freestanding</Type>
+        <Teitl>Gr?p Teulu</Teitl>
+        <Celfyddydwr>Robert Thomas</Celfyddydwr>
+        <Blwyddyn>2005</Blwyddyn>
+        <Ffordd>Ffordd Churchill</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Family Group.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318612</easting>
+        <northing>176577</northing>
+        <latitude>51.482269</latitude>
+        <longitude>-3.173443</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-44</id>
+        <Artist>Jeremy Waygood</Artist>
+        <Year>1995</Year>
+        <Title>Fence and Gates</Title>
+        <Road>Adelaide Street</Road>
+        <Area>Cathays</Area>
+        <Type>Street Furniture</Type>
+        <Teitl>Ffens a Gatiau</Teitl>
+        <Celfyddydwr>Jeremy Waygood</Celfyddydwr>
+        <Blwyddyn>1995</Blwyddyn>
+        <Ffordd>Stryd Adelaide</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Fence and Gates.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318916</easting>
+        <northing>174513</northing>
+        <latitude>51.463758</latitude>
+        <longitude>-3.168592</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-46</id>
+        <Artist>MacFarlanes of Glasgow</Artist>
+        <Year>1909</Year>
+        <Title>Fountain Canopy - Grange Gardens</Title>
+        <Road>Grange Gardens</Road>
+        <Area>Grangetown</Area>
+        <Type>Freestanding</Type>
+        <Teitl>Canopi Ffynnon � Gerddi�r Garnge</Teitl>
+        <Celfyddydwr>MacFarlanes o Glasgow</Celfyddydwr>
+        <Blwyddyn>1909</Blwyddyn>
+        <Ffordd>Gerddi�r Grange</Ffordd>
+        <Ystyr>Yn wreiddiol roedd ffynnon yfed o dan y canopi sy�n un o�r ddwy enghraifft sy�n weddill a roddwyd i�r ddinas yn gynnar yn y 1900au.</Ystyr>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Fountain Canopy - Grange Gardens.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318007</easting>
+        <northing>174928</northing>
+        <latitude>51.467358</latitude>
+        <longitude>-3.18177</longitude>
+        <description>Originally containing a drinking fountain, this canopy is one of two remaining examples that was gifted to the city in the early 1900's.</description>
+    </artwork>
+    <artwork>
+        <id>CDF-47</id>
+        <Artist>MacFarlanes of Glasgow</Artist>
+        <Year>1908</Year>
+        <Title>Fountain Canopy - Victoria Park</Title>
+        <Road>Victoria Park</Road>
+        <Area>Canton</Area>
+        <Type>Freestanding</Type>
+        <Teitl>Canopi Ffynnon � Parc Fictoria</Teitl>
+        <Celfyddydwr>MacFarlanes o Glasgow</Celfyddydwr>
+        <Blwyddyn>1908</Blwyddyn>
+        <Ffordd>Parc Fictoria</Ffordd>
+        <Ystyr>Yn wreiddiol roedd ffynnon yfed o dan y canopi sy�n un o�r ddwy enghraifft sy�n weddill a roddwyd i�r ddinas yn gynnar yn y 1900au.</Ystyr>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Fountain Canopy - Victoria Park.jpg</URL>
+        <city>Cardiff</city>
+        <easting>315497</easting>
+        <northing>176760</northing>
+        <latitude>51.483457</latitude>
+        <longitude>-3.218335</longitude>
+        <description>Originally containing a drinking fountain, this canopy is one of two remaining examples that was gifted to the city in the early 1900's.</description>
+    </artwork>
+    <artwork>
+        <id>CDF-49</id>
+        <Artist>John Clinch and Jon Buck</Artist>
+        <Year>2005</Year>
+        <Title>From Pit to Port</Title>
+        <Road>Waterfront Park</Road>
+        <Area>Butetown</Area>
+        <Type>Commemorative</Type>
+        <Teitl>O�r Pwll ir Porth</Teitl>
+        <Celfyddydwr>John Clinch a Jon Buck</Celfyddydwr>
+        <Blwyddyn>2005</Blwyddyn>
+        <Ffordd>Parc y Glannau</Ffordd>
+        <Ystyr>Mae�r gwaith celf yn dathlu�r holl w?r a gwragedd hynny a ffurfiodd ddolen yn y gadwyn rhwng cloddio am lo yn y cymoedd a�i allforio o Ddociau Caerdydd.</Ystyr>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/From Pit to Port.jpg</URL>
+        <city>Cardiff</city>
+        <easting>319482</easting>
+        <northing>174315</northing>
+        <latitude>51.462059</latitude>
+        <longitude>-3.160401</longitude>
+        <description>The artwork commemorates all of those men and women whom formed the link in the chain between the mining of coal in the valleys and it export from Cardiff Docks.</description>
+    </artwork>
+    <artwork>
+        <id>CDF-50</id>
+        <Artist>Jane Kelly</Artist>
+        <Year>1997</Year>
+        <Title>Gateway Cardiff</Title>
+        <Road>Pellett Street Footbridge</Road>
+        <Area>Adamsdown</Area>
+        <Type>Street Furniture</Type>
+        <Teitl>Porth Caerdydd</Teitl>
+        <Celfyddydwr>Jane Kelly</Celfyddydwr>
+        <Blwyddyn>1997</Blwyddyn>
+        <Ffordd>Pont Droed Pellett Street</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Gateway Cardiff.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318875</easting>
+        <northing>176047</northing>
+        <latitude>51.477542</latitude>
+        <longitude>-3.169535</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-52</id>
+        <Artist>Robert Thomas</Artist>
+        <Year>2005</Year>
+        <Title>Girl</Title>
+        <Road>Gorsedd Gardens</Road>
+        <Area>Cathays</Area>
+        <Type>Freestanding</Type>
+        <Teitl>Merch</Teitl>
+        <Celfyddydwr>Robert Thomas</Celfyddydwr>
+        <Blwyddyn>2005</Blwyddyn>
+        <Ffordd>Gerddi Gorsedd</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Girl.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318379</easting>
+        <northing>176902</northing>
+        <latitude>51.485157</latitude>
+        <longitude>-3.176873</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-58</id>
+        <Artist>J. A. Stevenson</Artist>
+        <Year>1927</Year>
+        <Title>Equity</Title>
+        <Road>West Bute Street</Road>
+        <Area>Butetown</Area>
+        <Type>Integrated</Type>
+        <Teitl>Ecwiti</Teitl>
+        <Celfyddydwr>J. A. Stevenson</Celfyddydwr>
+        <Blwyddyn>1927</Blwyddyn>
+        <Ffordd>Gorllewin Stryd Bute</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Equity.jpg</URL>
+        <city>Cardiff</city>
+        <easting>319057</easting>
+        <northing>174711</northing>
+        <latitude>51.465558</latitude>
+        <longitude>-3.166608</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-59</id>
+        <Year>2001</Year>
+        <Title>Industrial Pieces - Lloyd George Avenue</Title>
+        <Road>Lloyd George Avenue</Road>
+        <Area>Butetown</Area>
+        <Type>Freestanding</Type>
+        <Teitl>Darnau Diwydiannol � Rhodfa Lloyd George</Teitl>
+        <Celfyddydwr>-</Celfyddydwr>
+        <Blwyddyn>2001</Blwyddyn>
+        <Ffordd>Rhodfa Lloyd George</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Industrial Pieces - Lloyd George Avenue.jpg</URL>
+        <city>Cardiff</city>
+        <easting>319023</easting>
+        <northing>175034</northing>
+        <latitude>51.468457</latitude>
+        <longitude>-3.167172</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-60</id>
+        <Artist>Kate Derbyshire</Artist>
+        <Year>1998</Year>
+        <Title>Kitchener School Mosaic</Title>
+        <Road>Kitchener Road</Road>
+        <Area>Riverside</Area>
+        <Type>Integrated</Type>
+        <Teitl>Mosaig Ysgol Kitchener</Teitl>
+        <Celfyddydwr>Kate Derbyshire</Celfyddydwr>
+        <Blwyddyn>1998</Blwyddyn>
+        <Ffordd>Kitchener Road</Ffordd>
+        <Ystyr>Mae�r mosaig wedi ei seilio ar yr hwyl gall blant ei gael yn y maes chwarae bod hi�n heulog neu�n ddiwrnod glawog.</Ystyr>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Kitchener School Mosaic.jpg</URL>
+        <city>Cardiff</city>
+        <easting>316741</easting>
+        <northing>176217</northing>
+        <latitude>51.47876</latitude>
+        <longitude>-3.200296</longitude>
+        <description>The mosaic is based on the fun that children can have in the playground whether the sun is out or if it's a rainy day.</description>
+    </artwork>
+    <artwork>
+        <id>CDF-61</id>
+        <Artist>Tess Jaray and Tom Lomax</Artist>
+        <Year>1994</Year>
+        <Title>Lampstandards</Title>
+        <Road>Britannia Quay</Road>
+        <Area>Butetown</Area>
+        <Type>Street Furniture</Type>
+        <Teitl>Lampau</Teitl>
+        <Celfyddydwr>Tess Jaray a Tom Lomax</Celfyddydwr>
+        <Blwyddyn>1994</Blwyddyn>
+        <Ffordd>Cei Britannia</Ffordd>
+        <Ystyr>Cyfeiriad at strwythurau morwrol fel craeniau a mastiau yw�r goleuadau stryd cain hyn. Maent wedi eu lleoli ar hyd Glannau D?r Bae Caerdydd ym Masin y Rhath a Pharc Britania.</Ystyr>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Lampstandards.jpg</URL>
+        <city>Cardiff</city>
+        <easting>319465</easting>
+        <northing>174391</northing>
+        <latitude>51.46274</latitude>
+        <longitude>-3.160663</longitude>
+        <description>These elegant streetlamps reference maritime structures like cranes and masts. They are located along Cardiff Bays Waterfront at Roath Basin and Britannia Park.</description>
+    </artwork>
+    <artwork>
+        <id>CDF-62</id>
+        <Artist>Pierre Vivant</Artist>
+        <Year>1992</Year>
+        <Title>Landmark</Title>
+        <Road>Tyndall Street / Ocean Way</Road>
+        <Area>Splott</Area>
+        <Type>Freestanding</Type>
+        <Teitl>Tirnod</Teitl>
+        <Celfyddydwr>Pierre Vivant</Celfyddydwr>
+        <Blwyddyn>1992</Blwyddyn>
+        <Ffordd>Cylchfan Tyndall Street / Ocean Way</Ffordd>
+        <Ystyr>Mae�r casgliad hwn o siapau geometrig a wnaed o arwyddion traffig wedi creu tirnod nodedig sy�n cael ei alw�n �Magic Roundabout� yn lleol.</Ystyr>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Landmark.jpg</URL>
+        <city>Cardiff</city>
+        <easting>319481</easting>
+        <northing>176132</northing>
+        <latitude>51.478393</latitude>
+        <longitude>-3.16083</longitude>
+        <description>This collection of geometric shapes made from traffic signs has created a distinctive landmark that is locally referred to as the 'Magic Roundabout'.</description>
+    </artwork>
+    <artwork>
+        <id>CDF-63</id>
+        <Artist>Jo Johnson Landscape Architects</Artist>
+        <Year>2000</Year>
+        <Title>Landsea Square Water Feature</Title>
+        <Road>Landsea Square</Road>
+        <Area>Butetown</Area>
+        <Type>Freestanding</Type>
+        <Teitl>Nodwedd D?r Sgw�r Landsea</Teitl>
+        <Celfyddydwr>Jo Johnson Landscape Architects</Celfyddydwr>
+        <Blwyddyn>2000</Blwyddyn>
+        <Ffordd>Sgw�r Landsea</Ffordd>
+        <Ystyr>Yn dwt yng nghalon Bae Caerdydd, mae�r nodwedd d?r hwn yn ffurfio canolbwynt ar gyfer sgw�r cyhoeddus bychan.</Ystyr>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Landsea Square Water Feature.jpg</URL>
+        <city>Cardiff</city>
+        <easting>319081</easting>
+        <northing>174399</northing>
+        <latitude>51.462757</latitude>
+        <longitude>-3.166191</longitude>
+        <description>Tucked away in the heart of Cardiff Bay, this water feature forms a central focal point to a small public square.</description>
+    </artwork>
+    <artwork>
+        <id>CDF-65</id>
+        <Artist>William Goscombe John</Artist>
+        <Year>1924</Year>
+        <Title>Llandaff War Memorial</Title>
+        <Road>Cathedral Green, Llandaff</Road>
+        <Area>Llandaff</Area>
+        <Type>Commemorative</Type>
+        <Teitl>Cofeb Rhyfel Llandaf</Teitl>
+        <Celfyddydwr>William Goscombe John</Celfyddydwr>
+        <Blwyddyn>1924</Blwyddyn>
+        <Ffordd>Lawnt y Gadeirlan, Llandaf</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Llandaff War Memorial.jpg</URL>
+        <city>Cardiff</city>
+        <easting>315447</easting>
+        <northing>178123</northing>
+        <latitude>51.495702</latitude>
+        <longitude>-3.219382</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-66</id>
+        <Artist>Louise Shenstone and Adrian Butler</Artist>
+        <Year>1993</Year>
+        <Title>Magistrates Court</Title>
+        <Road>Fitzalan Place / Moira Terrace</Road>
+        <Area>Adamsdown</Area>
+        <Type>Integrated</Type>
+        <Teitl>Llys yr Ynadon</Teitl>
+        <Celfyddydwr>Louise Shenstone ac Adrian Butler</Celfyddydwr>
+        <Blwyddyn>1993</Blwyddyn>
+        <Ffordd>Fitzalan Place / Moira Terrace</Ffordd>
+        <Ystyr>Mae�r mosaig naw metr o uchder hwn yn addurno Llys Ynadon Caerdydd. Mae�r ffigur cyfiawnder wedi ei amgylchynu gan symbolau sy�n cynrychioli trefn a chydbwysedd.</Ystyr>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Magistrates Court.jpg</URL>
+        <city>Cardiff</city>
+        <easting>319108</easting>
+        <northing>176490</northing>
+        <latitude>51.481558</latitude>
+        <longitude>-3.166282</longitude>
+        <description>This nine metre high mosaic adorns Cardiff's Magistrates Court. The figure of justice is surrounded by symbols representing order and balance.</description>
+    </artwork>
+    <artwork>
+        <id>CDF-67</id>
+        <Artist>Avtarjeet Danjhal</Artist>
+        <Year>1993</Year>
+        <Title>Maltings Park</Title>
+        <Road>Lewis Road / East Tyndall Street</Road>
+        <Area>Splott</Area>
+        <Type>Freestanding</Type>
+        <Teitl>Parc Maltings</Teitl>
+        <Celfyddydwr>Avtarjeet Danjhal</Celfyddydwr>
+        <Blwyddyn>1993</Blwyddyn>
+        <Ffordd>Lewis Road / East Tyndall Street</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Maltings Park.jpg</URL>
+        <city>Cardiff</city>
+        <easting>319909</easting>
+        <northing>176255</northing>
+        <latitude>51.47956</latitude>
+        <longitude>-3.154696</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-68</id>
+        <Artist>Angela Davies</Artist>
+        <Year>1981</Year>
+        <Title>Map of Llandaff</Title>
+        <Road>High Street</Road>
+        <Area>Llandaff</Area>
+        <Type>Street Furniture</Type>
+        <Teitl>Map o Llandaf</Teitl>
+        <Celfyddydwr>Angela Davies</Celfyddydwr>
+        <Blwyddyn>1981</Blwyddyn>
+        <Ffordd>High Street, Llandaff</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Map of Llandaff.jpg</URL>
+        <city>Cardiff</city>
+        <easting>315498</easting>
+        <northing>177956</northing>
+        <latitude>51.494208</latitude>
+        <longitude>-3.218607</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-69</id>
+        <Artist>Ieuan Rees</Artist>
+        <Year>1996</Year>
+        <Title>Memorial to 614 Squadron</Title>
+        <Road>Runway Road, Pengam Green</Road>
+        <Area>Splott</Area>
+        <Type>Commemorative</Type>
+        <Teitl>Cofeb I Sgwadron 614</Teitl>
+        <Celfyddydwr>Ieuan Rees</Celfyddydwr>
+        <Blwyddyn>1996</Blwyddyn>
+        <Ffordd>Runway Road, Pengam Green</Ffordd>
+        <Ystyr>Mae�r garreg las pennant yn nodi safle blaenorol Maes Awyr Caerdydd (Pengam) ac yn coffau Sgwadron Ategol y Llu Awyr Brenhinol 614 a wasanaethai yn ystod yr Ail Ryfel Byd.</Ystyr>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Memorial to 614 Squadron.jpg</URL>
+        <city>Cardiff</city>
+        <easting>321529</easting>
+        <northing>177093</northing>
+        <latitude>51.48732</latitude>
+        <longitude>-3.13156</longitude>
+        <description>The blue pennant stone marks the former site of Cardiff (Pengam) Airport and commemorates the Royal Auxiliary Airforce 614 Squadron who served during World War II.</description>
+    </artwork>
+    <artwork>
+        <id>CDF-72</id>
+        <Artist>Brian Fell (Mosaic by Shenstone and Butler)</Artist>
+        <Year>1996</Year>
+        <Title>Merchant Seafarer's War Memorial</Title>
+        <Road>Harbour Drive, Cardiff Bay</Road>
+        <Area>Butetown</Area>
+        <Type>Commemorative</Type>
+        <Teitl>Cofeb Rhyfel Morwr Masnachol</Teitl>
+        <Celfyddydwr>Brian Fell (Mosaig gan Shenstone ac Butler)</Celfyddydwr>
+        <Blwyddyn>1996</Blwyddyn>
+        <Ffordd>Harbour Drive, Bae Caerdydd</Ffordd>
+        <Ystyr>Mae�r cerflun yn cyfuno corff llong o fewn si�p wyneb heb fod o gyfnod arbennig. Y mae�n gofeb i�r Morwyr Masnachol o Dde Cymru a wasanaethodd yn ystod yr Ail Ryfel Byd.</Ystyr>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Merchant Seafarer's War Memorial.jpg</URL>
+        <city>Cardiff</city>
+        <easting>319326</easting>
+        <northing>174437</northing>
+        <latitude>51.463134</latitude>
+        <longitude>-3.162674</longitude>
+        <description>The sculpture combines the hull of a ship with the shape of a timeless face. It is a memorial to the Merchant Seamen from South Wales who served during World War II.</description>
+    </artwork>
+    <artwork>
+        <id>CDF-73</id>
+        <Artist>Diane Maclean</Artist>
+        <Year>1995</Year>
+        <Title>Mill Lane Railings</Title>
+        <Road>Mill Lane</Road>
+        <Area>Cathays</Area>
+        <Type>Street Furniture</Type>
+        <Teitl>Rheilins L�n y Felin</Teitl>
+        <Celfyddydwr>Diane Maclean</Celfyddydwr>
+        <Blwyddyn>1995</Blwyddyn>
+        <Ffordd>L�n y Felin</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Mill Lane Railings.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318438</easting>
+        <northing>176049</northing>
+        <latitude>51.477497</latitude>
+        <longitude>-3.175826</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-74</id>
+        <Artist>Malcolm Robertson</Artist>
+        <Year>2000</Year>
+        <Title>Millennium Garden Sculpture</Title>
+        <Road>University Hospital of Wales</Road>
+        <Area>Heath</Area>
+        <Type>Freestanding</Type>
+        <Teitl>Cerflun Gardd y Mileniwm</Teitl>
+        <Celfyddydwr>Malcolm Robertson</Celfyddydwr>
+        <Blwyddyn>2000</Blwyddyn>
+        <Ffordd>Ysbyty Prifysgol Cymru</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Millennium Garden Sculpture.jpg</URL>
+        <city>Cardiff</city>
+        <easting>317640</easting>
+        <northing>179339</northing>
+        <latitude>51.506957</latitude>
+        <longitude>-3.188083</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-75</id>
+        <Artist>The Pioneers</Artist>
+        <Year>1999</Year>
+        <Title>Millennium Riverwalk</Title>
+        <Road>Millennium Riverwalk</Road>
+        <Area>Cathays</Area>
+        <Type>Integrated</Type>
+        <Teitl>Llwybr Afon y Mileniwm</Teitl>
+        <Celfyddydwr>The Pioneers</Celfyddydwr>
+        <Blwyddyn>1999</Blwyddyn>
+        <Ffordd>Llwybr Afon y Mileniwm</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Millennium Riverwalk.jpg</URL>
+        <city>Cardiff</city>
+        <easting>317880</easting>
+        <northing>176090</northing>
+        <latitude>51.477785</latitude>
+        <longitude>-3.183869</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-76</id>
+        <Artist>Robert Thomas</Artist>
+        <Year>2005</Year>
+        <Title>Miner</Title>
+        <Road>Queen Street</Road>
+        <Area>Cathays</Area>
+        <Type>Freestanding</Type>
+        <Teitl>Glowr</Teitl>
+        <Celfyddydwr>Robert Thomas</Celfyddydwr>
+        <Blwyddyn>2005</Blwyddyn>
+        <Ffordd>Heol-y-Frenhines</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Miner.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318666</easting>
+        <northing>176642</northing>
+        <latitude>51.482861</latitude>
+        <longitude>-3.172681</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-77</id>
+        <Artist>Albert Hodge</Artist>
+        <Year>1912</Year>
+        <Title>Mining</Title>
+        <Road>Glamorgan Building, Civic Centre</Road>
+        <Area>Cathays</Area>
+        <Type>Integrated</Type>
+        <Teitl>Cloddio</Teitl>
+        <Celfyddydwr>Albert Hodge</Celfyddydwr>
+        <Blwyddyn>1912</Blwyddyn>
+        <Ffordd>Adeilad Morgannwg, Y Ganolfan Ddinesig</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Mining.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318081</easting>
+        <northing>176988</northing>
+        <latitude>51.485887</latitude>
+        <longitude>-3.181184</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-78</id>
+        <Artist>Sokari Douglas Camp</Artist>
+        <Year>1995</Year>
+        <Title>Monorail</Title>
+        <Road>Adamscroft Place, Railway Embankment</Road>
+        <Area>Butetown</Area>
+        <Type>Freestanding</Type>
+        <Teitl>Monorheil</Teitl>
+        <Celfyddydwr>Sokari Douglas Camp</Celfyddydwr>
+        <Blwyddyn>1995</Blwyddyn>
+        <Ffordd>Adamscroft Place, Railway Embankment</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Monorail.jpg</URL>
+        <city>Cardiff</city>
+        <easting>319342</easting>
+        <northing>176246</northing>
+        <latitude>51.479398</latitude>
+        <longitude>-3.162857</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-80</id>
+        <Artist>The Pioneers</Artist>
+        <Year>1994</Year>
+        <Title>Mosaic - Near Mount Stuart Primary School</Title>
+        <Road>Stuart Street</Road>
+        <Area>Butetown</Area>
+        <Type>Freestanding</Type>
+        <Teitl>Mosaig � Gerllaw Ysgol Gynradd Mount Stuart</Teitl>
+        <Celfyddydwr>The Pioneers</Celfyddydwr>
+        <Blwyddyn>1994</Blwyddyn>
+        <Ffordd>Stuart Street</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Mosaic - Near Mount Stuart Primary School.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318800</easting>
+        <northing>174409</northing>
+        <latitude>51.462806</latitude>
+        <longitude>-3.170237</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-81</id>
+        <Artist>Robert Thomas</Artist>
+        <Year>2005</Year>
+        <Title>Mother and Son</Title>
+        <Road>Queen Street</Road>
+        <Area>Cathays</Area>
+        <Type>Freestanding</Type>
+        <Teitl>Mam a Mab</Teitl>
+        <Celfyddydwr>Robert Thomas</Celfyddydwr>
+        <Blwyddyn>2005</Blwyddyn>
+        <Ffordd>Heol-y-Frenhines</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Mother and Son.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318358</easting>
+        <northing>176527</northing>
+        <latitude>51.481783</latitude>
+        <longitude>-3.177089</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-82</id>
+        <Artist>Jon Mills</Artist>
+        <Title>National Cycle Network Mileposts</Title>
+        <Road>City Wide</Road>
+        <Area>City Wide</Area>
+        <Type>Street Furniture</Type>
+        <Teitl>Pyst Milltir Rhwydwaith Seiclo Cenedlaethol</Teitl>
+        <Celfyddydwr>Jon Mills</Celfyddydwr>
+        <Blwyddyn>0</Blwyddyn>
+        <Ffordd>Ledled y Ddinas</Ffordd>
+        <Ystyr>Ceir pedwar gwahanol ddyluniad o garreg filltir. Yn y fersiwn hwn �Y Goeden Ffosil� ceir ffurf coeden haniaethol ac mae�n cynnwys amrywiaeth o ffosiliau sy�n darlunio treigl amser.</Ystyr>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/National Cycle Network Mileposts.jpg</URL>
+        <city>Cardiff</city>
+        <easting>317779</easting>
+        <northing>177079</northing>
+        <latitude>51.486661</latitude>
+        <longitude>-3.185553</longitude>
+        <description>There are four different designs of milepost. This version 'The Fossil Tree' takes the form of an abstract tree and contains a range of fossils depicting the passage of time.</description>
+    </artwork>
+    <artwork>
+        <id>CDF-83</id>
+        <Artist>Albert Hodge</Artist>
+        <Year>1912</Year>
+        <Title>Navigation</Title>
+        <Road>Glamorgan Building, Civic Centre</Road>
+        <Area>Cathays</Area>
+        <Type>Integrated</Type>
+        <Teitl>Llywio</Teitl>
+        <Celfyddydwr>Albert Hodge</Celfyddydwr>
+        <Blwyddyn>1912</Blwyddyn>
+        <Ffordd>Adeilad Morgannwg, Y Ganolfan Ddinesig</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Navigation.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318060</easting>
+        <northing>177018</northing>
+        <latitude>51.486154</latitude>
+        <longitude>-3.181493</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-84</id>
+        <Artist>Nathan David</Artist>
+        <Year>1996</Year>
+        <Title>Nereid</Title>
+        <Road>The Friary</Road>
+        <Area>Cathays</Area>
+        <Type>Freestanding</Type>
+        <Teitl>Nereid</Teitl>
+        <Celfyddydwr>Nathan David</Celfyddydwr>
+        <Blwyddyn>1996</Blwyddyn>
+        <Ffordd>Heol T?�r Brodyr</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Nereid.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318278</easting>
+        <northing>176726</northing>
+        <latitude>51.48356</latitude>
+        <longitude>-3.178286</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-85</id>
+        <Artist>David Mackie</Artist>
+        <Year>2005</Year>
+        <Title>Newtown Memorial Garden</Title>
+        <Road>Tyndall Street</Road>
+        <Area>Butetown</Area>
+        <Type>Commemorative</Type>
+        <Teitl>Gardd Goffa'r Dre Newydd</Teitl>
+        <Celfyddydwr>David Mackie</Celfyddydwr>
+        <Blwyddyn>2005</Blwyddyn>
+        <Ffordd>Tyndall Street</Ffordd>
+        <Ystyr>Roedd Newtown, a gafodd ei chwalu yn 1966, yn gartref i gannoedd o w?r a gwragedd a ddaeth drosodd o�r Iwerddon i gwblhau�r gwaith o adeiladu Doc Bute.</Ystyr>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Newtown Memorial Garden.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318875</easting>
+        <northing>175887</northing>
+        <latitude>51.476104</latitude>
+        <longitude>-3.169498</longitude>
+        <description>Demolished in 1966, Newtown originally housed hundreds of men and women who came over from Ireland to complete the building of the Bute Dock.</description>
+    </artwork>
+    <artwork>
+        <id>CDF-86</id>
+        <Artist>Denys Short</Artist>
+        <Year>1991</Year>
+        <Title>Palisade</Title>
+        <Road>Waterfront Park, Cardiff Bay</Road>
+        <Area>Butetown</Area>
+        <Type>Street Furniture</Type>
+        <Teitl>Palis�d</Teitl>
+        <Celfyddydwr>Denys Short</Celfyddydwr>
+        <Blwyddyn>1991</Blwyddyn>
+        <Ffordd>Parc y Glannau, Bae Caerdydd</Ffordd>
+        <Ystyr>Mae pwrpas ymarferol i�r cerflun dur gwrthstaen gloyw hwn sef cuddio a diogelu�r offer hydrolig ar gyfer gatiau loc Basin y Rhath gerllaw.</Ystyr>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Palisade.jpg</URL>
+        <city>Cardiff</city>
+        <easting>319407</easting>
+        <northing>174216</northing>
+        <latitude>51.461158</latitude>
+        <longitude>-3.161458</longitude>
+        <description>This polished stainless steel sculpture has the practical purpose of concealing and protecting the hydraulic equipment for the nearby Roath Basin lock gates.</description>
+    </artwork>
+    <artwork>
+        <id>CDF-87</id>
+        <Artist>Jonah Jones</Artist>
+        <Year>1993</Year>
+        <Title>Panorama Stone</Title>
+        <Road>Landsea Square</Road>
+        <Area>Butetown</Area>
+        <Type>Integrated</Type>
+        <Teitl>Carreg Panorama</Teitl>
+        <Celfyddydwr>Jonah Jones</Celfyddydwr>
+        <Blwyddyn>1993</Blwyddyn>
+        <Ffordd>Sgw�r Landsea</Ffordd>
+        <Ystyr>Mae pegiau efydd yn nodi cyfeiriad y cyrchfannau sy�n gysylltiedig � Chaerdydd, o Benarth gerllaw ac Ynys Echni i ardaloedd fel Nantes a Stuttgart.</Ystyr>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Panorama Stone.jpg</URL>
+        <city>Cardiff</city>
+        <easting>319114</easting>
+        <northing>174299</northing>
+        <latitude>51.461863</latitude>
+        <longitude>-3.165693</longitude>
+        <description>Bronze pegs mark the direction of destinations that have links with Cardiff, from nearby Penarth and Flatholm through to areas such as Nantes and Stuttgart.</description>
+    </artwork>
+    <artwork>
+        <id>CDF-88</id>
+        <Artist>Mick Petts</Artist>
+        <Year>2000</Year>
+        <Title>Pengam Pocket Park</Title>
+        <Road>Ffordd Pengam</Road>
+        <Area>Splott</Area>
+        <Type>Freestanding</Type>
+        <Teitl>Parc Poced Pengam</Teitl>
+        <Celfyddydwr>Mick Petts</Celfyddydwr>
+        <Blwyddyn>2000</Blwyddyn>
+        <Ffordd>Ffordd Pengam</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Pengam Pocket Park.jpg</URL>
+        <city>Cardiff</city>
+        <easting>321460</easting>
+        <northing>177365</northing>
+        <latitude>51.489756</latitude>
+        <longitude>-3.132614</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-89</id>
+        <Artist>Angelo Bellandi</Artist>
+        <Year>2004</Year>
+        <Title>Pentyrch Shops</Title>
+        <Road>High Corner</Road>
+        <Area>Pentyrch</Area>
+        <Type>Integrated</Type>
+        <Teitl>Siopau Pentyrch</Teitl>
+        <Celfyddydwr>Angelo Bellandi</Celfyddydwr>
+        <Blwyddyn>2004</Blwyddyn>
+        <Ffordd>High Corner, Pentyrch</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Pentyrch Shops.jpg</URL>
+        <city>Cardiff</city>
+        <easting>310017</easting>
+        <northing>182138</northing>
+        <latitude>51.530954</latitude>
+        <longitude>-3.298606</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-90</id>
+        <Artist>John Clinch</Artist>
+        <Year>1993</Year>
+        <Title>People Like Us</Title>
+        <Road>Tacoma Square, Mermaid Quay</Road>
+        <Area>Butetown</Area>
+        <Type>Freestanding</Type>
+        <Teitl>Pobl fel Ni</Teitl>
+        <Celfyddydwr>John Clinch</Celfyddydwr>
+        <Blwyddyn>1993</Blwyddyn>
+        <Ffordd>Sgw�r Tacoma, Cei'r F�r-forwyn</Ffordd>
+        <Ystyr>Mae�r cerflun yn dathlu�r bobl a oedd yn byw a gweithio yn nociau Caerdydd yn hwyr yn y 19 ganrif ac yn gynnar yn yr 20 ganrif.</Ystyr>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/People Like Us.jpg</URL>
+        <city>Cardiff</city>
+        <easting>319141</easting>
+        <northing>174432</northing>
+        <latitude>51.463062</latitude>
+        <longitude>-3.165335</longitude>
+        <description>The sculpture celebrates the people who lived and worked in Cardiff docks during the late 19th and early 20th century.</description>
+    </artwork>
+    <artwork>
+        <id>CDF-91</id>
+        <Artist>William Frame</Artist>
+        <Year>1896</Year>
+        <Title>Pierhead Building</Title>
+        <Road>Roald Dahl Plass</Road>
+        <Area>Butetown</Area>
+        <Type>Integrated</Type>
+        <Teitl>Adeilad y Pierhead</Teitl>
+        <Celfyddydwr>William Frame</Celfyddydwr>
+        <Blwyddyn>1896</Blwyddyn>
+        <Ffordd>Plas Roald Dahl</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Pierhead Building.jpg</URL>
+        <city>Cardiff</city>
+        <easting>319275</easting>
+        <northing>174473</northing>
+        <latitude>51.46345</latitude>
+        <longitude>-3.163416</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-92</id>
+        <Artist>Martin Smith</Artist>
+        <Year>2003</Year>
+        <Title>Pigeon Wave</Title>
+        <Road>Central Station, Central Square</Road>
+        <Area>Cathays</Area>
+        <Type>Interior</Type>
+        <Teitl>Ton y Golomen</Teitl>
+        <Celfyddydwr>Martin Smith</Celfyddydwr>
+        <Blwyddyn>2003</Blwyddyn>
+        <Ffordd>Gorsaf Ganolog, Sgw�r Canolog</Ffordd>
+        <Ystyr>Yn seiliedig ar y cymeriadau sy�n byw yn yr adeilad, mae naw colomen yn eistedd mewn rhes uwch ben cloc yr orsaf reilffordd gan godi a fflapio'u hadenydd tra bo tr�n bach tegan yn rhedeg heibio.</Ystyr>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Pigeon Wave.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318184</easting>
+        <northing>175882</northing>
+        <latitude>51.475959</latitude>
+        <longitude>-3.179444</longitude>
+        <description>Based on the characters that inhabit the building, nine pigeons sit in a row above the railway stations clock and rise and flap their wings as a small toy train runs by.</description>
+    </artwork>
+    <artwork>
+        <id>CDF-93</id>
+        <Artist>Paul Raphael Montford</Artist>
+        <Year>1906</Year>
+        <Title>Poetry and Music</Title>
+        <Road>City Hall, Civic Centre</Road>
+        <Area>Cathays</Area>
+        <Type>Integrated</Type>
+        <Teitl>Barddoniaeth a Cherddoriaeth</Teitl>
+        <Celfyddydwr>Paul Raphael Montford</Celfyddydwr>
+        <Blwyddyn>1906</Blwyddyn>
+        <Ffordd>Neuadd y Ddinas, Y Ganolfan Ddinesig</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Poetry and Music.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318246</easting>
+        <northing>176859</northing>
+        <latitude>51.484751</latitude>
+        <longitude>-3.178778</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-94</id>
+        <Artist>Howard Bowcott</Artist>
+        <Year>2001</Year>
+        <Title>Quaystones</Title>
+        <Road>East Bute Street</Road>
+        <Area>Butetown</Area>
+        <Type>Integrated</Type>
+        <Teitl>Cerrig y Cei</Teitl>
+        <Celfyddydwr>Howard Bowcott</Celfyddydwr>
+        <Blwyddyn>2001</Blwyddyn>
+        <Ffordd>Dwyrain Stryd Bute</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Quaystones.jpg</URL>
+        <city>Cardiff</city>
+        <easting>319309</easting>
+        <northing>174764</northing>
+        <latitude>51.466071</latitude>
+        <longitude>-3.162993</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-95</id>
+        <Artist>David Petersen</Artist>
+        <Year>1984</Year>
+        <Title>Red Dragon</Title>
+        <Road>Bute Building, Civic Centre</Road>
+        <Area>Cathays</Area>
+        <Type>Integrated</Type>
+        <Teitl>Y Ddraig Goch</Teitl>
+        <Celfyddydwr>David Petersen</Celfyddydwr>
+        <Blwyddyn>1984</Blwyddyn>
+        <Ffordd>Adeilad Bute, Y Ganolfan Ddinesig</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Red Dragon.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318008</easting>
+        <northing>177075</northing>
+        <latitude>51.486658</latitude>
+        <longitude>-3.182255</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-96</id>
+        <Artist>Dhruva Mistry</Artist>
+        <Year>1990</Year>
+        <Title>Regarding Guardians of Art</Title>
+        <Road>National Muesum and Gallery of Wales, Park Place</Road>
+        <Area>Cathays</Area>
+        <Type>Integrated</Type>
+        <Teitl>Gwarcheidwaid Celf</Teitl>
+        <Celfyddydwr>Dhruva Mistry</Celfyddydwr>
+        <Blwyddyn>1990</Blwyddyn>
+        <Ffordd>Amgueddfa ac Oriel Genedlaethol Cymru</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Regarding Guardains of Art.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318329</easting>
+        <northing>177059</northing>
+        <latitude>51.486561</latitude>
+        <longitude>-3.177629</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-97</id>
+        <Artist>Edward Bainbridge Copnall</Artist>
+        <Year>1961</Year>
+        <Title>Relief Sculpture</Title>
+        <Road>Redwood Building, Civic Centre</Road>
+        <Area>Cathays</Area>
+        <Type>Integrated</Type>
+        <Teitl>Cerflun Cymorth</Teitl>
+        <Celfyddydwr>Edward Bainbridge Copnall</Celfyddydwr>
+        <Blwyddyn>1961</Blwyddyn>
+        <Ffordd>Adeilad Redwood, Y Ganolfan Ddinesig</Ffordd>
+        <Ystyr>Uwch ben mynediad Ysgol Fferylliaeth Cymru Prifysgol Caerdydd mae cerflun sy'n dangos hen berson mewn toga yn estyn allan dros wyddonydd a nyrs.</Ystyr>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Relief Sculpture.jpg</URL>
+        <city>Cardiff</city>
+        <easting>317920</easting>
+        <northing>177199</northing>
+        <latitude>51.48776</latitude>
+        <longitude>-3.183551</longitude>
+        <description>Located above the entrance to the Cardiff University Welsh School of Pharmacy, the sculpture shows an elderly toga-clad person reaching out over a scientist and a nurse.</description>
+    </artwork>
+    <artwork>
+        <id>CDF-98</id>
+        <Artist>Gwen Heeney</Artist>
+        <Year>1999</Year>
+        <Title>Rhiannon Seating</Title>
+        <Road>Barquentine Place</Road>
+        <Area>Butetown</Area>
+        <Type>Street Furniture</Type>
+        <Teitl>Esiteddle Rhiannon</Teitl>
+        <Celfyddydwr>Gwen Heeney</Celfyddydwr>
+        <Blwyddyn>1999</Blwyddyn>
+        <Ffordd>Barquentine Place</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Rhiannon Seating.jpg</URL>
+        <city>Cardiff</city>
+        <easting>319070</easting>
+        <northing>175278</northing>
+        <latitude>51.470657</latitude>
+        <longitude>-3.166551</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-99</id>
+        <Artist>Andrew Rowe</Artist>
+        <Year>2000</Year>
+        <Title>Bowline Knot</Title>
+        <Road>Havannah Street</Road>
+        <Area>Butetown</Area>
+        <Type>Freestanding</Type>
+        <Teitl>Cwlwm Hwylraff</Teitl>
+        <Celfyddydwr>Andrew Rowe</Celfyddydwr>
+        <Blwyddyn>2000</Blwyddyn>
+        <Ffordd>Havannah Street</Ffordd>
+        <Ystyr>Defnddiwyd i glymu llongau a chychod i'r dociau, mae'r cerflun efydd hwn yn adlewyrchu treftadaeth Bae Caerdydd fel un o borthladdoedd allforio glo mwyaf blaenllaw y byd.</Ystyr>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Bowline Knot.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318921</easting>
+        <northing>174173</northing>
+        <latitude>51.460702</latitude>
+        <longitude>-3.168442</longitude>
+        <description>Used to tie ships and boats to the dock, this bronze sculpture reflects Cardiff Bay's heritage as one of the worlds principal coal-exporting ports.</description>
+    </artwork>
+    <artwork>
+        <id>CDF-100</id>
+        <Artist>Richard Thornton</Artist>
+        <Year>1996</Year>
+        <Title>Sails</Title>
+        <Road>Cardiff Bay Retail Park</Road>
+        <Area>Grangetown</Area>
+        <Type>Freestanding</Type>
+        <Teitl>Hwyliau</Teitl>
+        <Celfyddydwr>Richard Thornton</Celfyddydwr>
+        <Blwyddyn>1996</Blwyddyn>
+        <Ffordd>Parc Manwerthu, Bae Caerdydd</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Sails.jpg</URL>
+        <city>Cardiff</city>
+        <easting>317656</easting>
+        <northing>173877</northing>
+        <latitude>51.457858</latitude>
+        <longitude>-3.186577</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-101</id>
+        <Artist>Donald McGill</Artist>
+        <Year>1906</Year>
+        <Title>Science and Education</Title>
+        <Road>Law Courts, Civic Centre</Road>
+        <Area>Cathays</Area>
+        <Type>Integrated</Type>
+        <Teitl>Gwyddonaeth ac Addysg</Teitl>
+        <Celfyddydwr>Donald McGill</Celfyddydwr>
+        <Blwyddyn>1906</Blwyddyn>
+        <Ffordd>Llysoedd Barn, Y Ganolfan Ddinesig</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Science and Education.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318153</easting>
+        <northing>176791</northing>
+        <latitude>51.484126</latitude>
+        <longitude>-3.180101</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-102</id>
+        <Artist>F. C. Bowring</Artist>
+        <Year>1915</Year>
+        <Title>Scott Memorial</Title>
+        <Road>Roath Park Lake</Road>
+        <Area>Cyncoed</Area>
+        <Type>Commemorative</Type>
+        <Teitl>Cofeb Scott</Teitl>
+        <Celfyddydwr>F. C. Bowring</Celfyddydwr>
+        <Blwyddyn>1915</Blwyddyn>
+        <Ffordd>Llyn Parc y Rhath</Ffordd>
+        <Ystyr>Mae t?r y cloc yn coffau alldaith angheuol Capten Scott i Begwn y De yn 1910. Gellir gweld model o�i long y Terra Nova ar gopa�r t?r.</Ystyr>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Scott Memorial.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318549</easting>
+        <northing>179302</northing>
+        <latitude>51.506756</latitude>
+        <longitude>-3.17498</longitude>
+        <description>The clock tower commemorates Captain Scott's ill-fated expedition to the South Pole in 1910. A model of his ship, the Terra Nova can be seen at the top of the tower.</description>
+    </artwork>
+    <artwork>
+        <id>CDF-103</id>
+        <Artist>Alan Evans</Artist>
+        <Year>1997</Year>
+        <Title>Seating - Discovery House</Title>
+        <Road>East Bute Street</Road>
+        <Area>Butetown</Area>
+        <Type>Street Furniture</Type>
+        <Teitl>Seddi - Discovery House</Teitl>
+        <Celfyddydwr>Alan Evans</Celfyddydwr>
+        <Blwyddyn>1997</Blwyddyn>
+        <Ffordd>Dwyrain Stryd Bute</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Seating - Discovery House.jpg</URL>
+        <city>Cardiff</city>
+        <easting>319506</easting>
+        <northing>174579</northing>
+        <latitude>51.464436</latitude>
+        <longitude>-3.160116</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-104</id>
+        <Artist>Andrew Rowe</Artist>
+        <Year>1999</Year>
+        <Title>Yellow Bench</Title>
+        <Road>Longueil Close, Atlantic Wharf</Road>
+        <Area>Butetown</Area>
+        <Type>Street Furniture</Type>
+        <Teitl>Mainc Felen</Teitl>
+        <Celfyddydwr>Andrew Rowe</Celfyddydwr>
+        <Blwyddyn>1999</Blwyddyn>
+        <Ffordd>Longueil Close</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Yellow Bench.jpg</URL>
+        <city>Cardiff</city>
+        <easting>319241</easting>
+        <northing>175498</northing>
+        <latitude>51.472659</latitude>
+        <longitude>-3.16414</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-105</id>
+        <Artist>Eilis O'Connell</Artist>
+        <Year>1992</Year>
+        <Title>Secret Station</Title>
+        <Road>Ffordd Pengam</Road>
+        <Area>Splott</Area>
+        <Type>Freestanding</Type>
+        <Teitl>Gorsaf Gudd</Teitl>
+        <Celfyddydwr>Eilis O'Connell</Celfyddydwr>
+        <Blwyddyn>1992</Blwyddyn>
+        <Ffordd>Ffordd Pengam</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Secret Station.jpg</URL>
+        <city>Cardiff</city>
+        <easting>321334</easting>
+        <northing>177723</northing>
+        <latitude>51.492957</latitude>
+        <longitude>-3.134508</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-106</id>
+        <Artist>Melissa Gibbs</Artist>
+        <Year>2004</Year>
+        <Title>Ship in a Bottle</Title>
+        <Road>Windsor Esplanade</Road>
+        <Area>Butetown</Area>
+        <Type>Street Furniture</Type>
+        <Teitl>Llong Mewn Potel</Teitl>
+        <Celfyddydwr>Melissa Gibbs</Celfyddydwr>
+        <Blwyddyn>2004</Blwyddyn>
+        <Ffordd>Windsor Esplanade</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Ship in a Bottle.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318638</easting>
+        <northing>174073</northing>
+        <latitude>51.459763</latitude>
+        <longitude>-3.172491</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-107</id>
+        <Artist>Ian Randall</Artist>
+        <Year>2000</Year>
+        <Title>Silent Links</Title>
+        <Road>Grangemore Community Park</Road>
+        <Area>Grangetown</Area>
+        <Type>Integrated</Type>
+        <Teitl>Dolenni Cudd</Teitl>
+        <Celfyddydwr>Ian Randall</Celfyddydwr>
+        <Blwyddyn>2000</Blwyddyn>
+        <Ffordd>Parc Cymunedol Grangemore</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Silent Links.jpg</URL>
+        <city>Cardiff</city>
+        <easting>317468</easting>
+        <northing>173858</northing>
+        <latitude>51.45766</latitude>
+        <longitude>-3.189278</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-108</id>
+        <Artist>Cecile Johnson Soliz</Artist>
+        <Year>1999</Year>
+        <Title>Skyline</Title>
+        <Road>St Mary Street / Mill Lane</Road>
+        <Area>Cathays</Area>
+        <Type>Integrated</Type>
+        <Teitl>Nenlinell</Teitl>
+        <Celfyddydwr>Cecile Johnson Soliz</Celfyddydwr>
+        <Blwyddyn>1999</Blwyddyn>
+        <Ffordd>Heol Eglwys Fair / L�n y Felin</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Skyline.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318384</easting>
+        <northing>175994</northing>
+        <latitude>51.476995</latitude>
+        <longitude>-3.176591</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-110</id>
+        <Artist>Albert Toft</Artist>
+        <Year>1909</Year>
+        <Title>South African War Memorial</Title>
+        <Road>King Edward VII Avenue</Road>
+        <Area>Cathays</Area>
+        <Type>Commemorative</Type>
+        <Teitl>Cofeb Rhyfel De Affrica</Teitl>
+        <Celfyddydwr>Albert Toft</Celfyddydwr>
+        <Blwyddyn>1909</Blwyddyn>
+        <Ffordd>Rhofda'r Brenin Edward VII</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/South African War Memorial.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318222</easting>
+        <northing>176831</northing>
+        <latitude>51.484496</latitude>
+        <longitude>-3.179117</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-111</id>
+        <Artist>Robert Thomas</Artist>
+        <Year>1987</Year>
+        <Title>Statue of Aneurin Bevan</Title>
+        <Road>Queen Street</Road>
+        <Area>Cathays</Area>
+        <Type>Commemorative</Type>
+        <Teitl>Cerflun o Aneurin Bevan</Teitl>
+        <Celfyddydwr>Robert Thomas</Celfyddydwr>
+        <Blwyddyn>1987</Blwyddyn>
+        <Ffordd>Heol-y-Frenhines</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Statue of Aneurin Bevan.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318245</easting>
+        <northing>176508</northing>
+        <latitude>51.481596</latitude>
+        <longitude>-3.178711</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-112</id>
+        <Artist>Michael Rizzello</Artist>
+        <Year>1960</Year>
+        <Title>Statue of David Lloyd George</Title>
+        <Road>Gorsedd Gardens</Road>
+        <Area>Cathays</Area>
+        <Type>Commemorative</Type>
+        <Teitl>Cerflun o David Lloyd George</Teitl>
+        <Celfyddydwr>Michael Rizzello</Celfyddydwr>
+        <Blwyddyn>1960</Blwyddyn>
+        <Ffordd>Gerddi Gorsedd</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Statue of David Lloyd George.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318387</easting>
+        <northing>176918</northing>
+        <latitude>51.485302</latitude>
+        <longitude>-3.176761</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-113</id>
+        <Artist>Bonar Dunlop</Artist>
+        <Year>1982</Year>
+        <Title>Statue of Gareth Edwards</Title>
+        <Road>St David's Centre</Road>
+        <Area>Cathays</Area>
+        <Type>Commemorative</Type>
+        <Teitl>Cerflun o Gareth Edwards</Teitl>
+        <Celfyddydwr>Bonar Dunlop</Celfyddydwr>
+        <Blwyddyn>1982</Blwyddyn>
+        <Ffordd>Canolfan Dewi Sant</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Statue of Gareth Edwards.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318492</easting>
+        <northing>176455</northing>
+        <latitude>51.481155</latitude>
+        <longitude>-3.175143</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-114</id>
+        <Artist>William Goscombe John</Artist>
+        <Year>1909</Year>
+        <Title>Statue of Godfrey, First Viscount of Tredegar</Title>
+        <Road>City Hall Lawn</Road>
+        <Area>Cathays</Area>
+        <Type>Commemorative</Type>
+        <Teitl>Cerflun o Godfrey, Is-Iarll Cyntaf Tredegar</Teitl>
+        <Celfyddydwr>William Goscombe John</Celfyddydwr>
+        <Blwyddyn>1909</Blwyddyn>
+        <Ffordd>Lawnt Neuadd y Ddinas</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Statue of Godfrey, First Viscount of Tredegar.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318361</easting>
+        <northing>176820</northing>
+        <latitude>51.484417</latitude>
+        <longitude>-3.177113</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-115</id>
+        <Year>1920</Year>
+        <Title>Statue of Grecian Female</Title>
+        <Road>St Mary Street</Road>
+        <Area>Cathays</Area>
+        <Type>Integrated</Type>
+        <Teitl>Cerflun o Fenyw Roegaidd</Teitl>
+        <Celfyddydwr>-</Celfyddydwr>
+        <Blwyddyn>1920</Blwyddyn>
+        <Ffordd>Heol Eglwys Fair</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Statue of Grecian Female.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318312</easting>
+        <northing>176060</northing>
+        <latitude>51.477578</latitude>
+        <longitude>-3.177643</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-116</id>
+        <Artist>Herbert Hampton</Artist>
+        <Year>1898</Year>
+        <Title>Statue of Henry Austin (Lord Aberdare)</Title>
+        <Road>Alexandra Gardens, Civic Centre</Road>
+        <Area>Cathays</Area>
+        <Type>Commemorative</Type>
+        <Teitl>Cerflun o Henry Austin (Arglwydd Aberd�r)</Teitl>
+        <Celfyddydwr>Herbert Hampton</Celfyddydwr>
+        <Blwyddyn>1898</Blwyddyn>
+        <Ffordd>Gerddi Alexandra, Y Ganolfan Ddinesig</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Statue of Henry Austin (Lord Aberdare).jpg</URL>
+        <city>Cardiff</city>
+        <easting>318133</easting>
+        <northing>177114</northing>
+        <latitude>51.487027</latitude>
+        <longitude>-3.180464</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-117</id>
+        <Artist>William Goscombe John</Artist>
+        <Year>1926</Year>
+        <Title>Statue of James Rice Buckley</Title>
+        <Road>Cathedral Green, Llandaff</Road>
+        <Area>Llandaff</Area>
+        <Type>Commemorative</Type>
+        <Teitl>Cerflun o James Rice Buckley</Teitl>
+        <Celfyddydwr>William Goscombe John</Celfyddydwr>
+        <Blwyddyn>1926</Blwyddyn>
+        <Ffordd>Lawnt y Gadeirlan, Llandaf</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Statue of James Rice Buckley.jpg</URL>
+        <city>Cardiff</city>
+        <easting>315471</easting>
+        <northing>178062</northing>
+        <latitude>51.495157</latitude>
+        <longitude>-3.219021</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-118</id>
+        <Artist>Philip Blacker</Artist>
+        <Year>1997</Year>
+        <Title>Statue of Jim Driscoll</Title>
+        <Road>Bute Terrace</Road>
+        <Area>Cathays</Area>
+        <Type>Commemorative</Type>
+        <Teitl>Cerflun o Jim Driscoll</Teitl>
+        <Celfyddydwr>Philip Blacker</Celfyddydwr>
+        <Blwyddyn>1997</Blwyddyn>
+        <Ffordd>Teras Bute</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Statue of Jim Driscoll.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318593</easting>
+        <northing>175998</northing>
+        <latitude>51.477061</latitude>
+        <longitude>-3.173583</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-119</id>
+        <Artist>James Milo Griffith</Artist>
+        <Year>1886</Year>
+        <Title>Statue of John Batchelor</Title>
+        <Road>The Hayes</Road>
+        <Area>Cathays</Area>
+        <Type>Commemorative</Type>
+        <Teitl>Cerflun o John Batchelor</Teitl>
+        <Celfyddydwr>James Milo Griffith</Celfyddydwr>
+        <Blwyddyn>1886</Blwyddyn>
+        <Ffordd>Yr Aes</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Statue of John Batchelor.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318397</easting>
+        <northing>176279</northing>
+        <latitude>51.479559</latitude>
+        <longitude>-3.17647</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-120</id>
+        <Artist>William Goscombe John</Artist>
+        <Year>1906</Year>
+        <Title>Statue of John Cory</Title>
+        <Road>Gorsedd Gardens</Road>
+        <Area>Cathays</Area>
+        <Type>Commemorative</Type>
+        <Teitl>Cerflun o John Cory</Teitl>
+        <Celfyddydwr>William Goscombe John</Celfyddydwr>
+        <Blwyddyn>1906</Blwyddyn>
+        <Ffordd>Gerddi Gorsedd</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Statue of John Cory.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318417</easting>
+        <northing>176824</northing>
+        <latitude>51.484461</latitude>
+        <longitude>-3.176308</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-121</id>
+        <Artist>William Goscombe John</Artist>
+        <Year>1899</Year>
+        <Title>Statue of Joyance</Title>
+        <Road>Thompson's Park</Road>
+        <Area>Canton</Area>
+        <Type>Freestanding</Type>
+        <Teitl>Cerflun o Joyance</Teitl>
+        <Celfyddydwr>William Goscombe John</Celfyddydwr>
+        <Blwyddyn>1899</Blwyddyn>
+        <Ffordd>Parc Thompson</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Statue of Joyance.jpg</URL>
+        <city>Cardiff</city>
+        <easting>316181</easting>
+        <northing>176982</northing>
+        <latitude>51.485554</latitude>
+        <longitude>-3.208539</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-122</id>
+        <Artist>William Goscombe John</Artist>
+        <Year>1910</Year>
+        <Title>Statue of Judge Gwilym Williams</Title>
+        <Road>Law Courts, Civic Centre</Road>
+        <Area>Cathays</Area>
+        <Type>Commemorative</Type>
+        <Teitl>Cerflun o'r Barnwr Gwilym Williams</Teitl>
+        <Celfyddydwr>William Goscombe John</Celfyddydwr>
+        <Blwyddyn>1910</Blwyddyn>
+        <Ffordd>Llysoedd Barn, Y Ganolfan Ddinesig</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Statue of Judge Gwilym Williams.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318173</easting>
+        <northing>176800</northing>
+        <latitude>51.48421</latitude>
+        <longitude>-3.179815</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-123</id>
+        <Artist>William Goscombe John</Artist>
+        <Year>1919</Year>
+        <Title>Statue of Lord Ninian Crichton Stuart</Title>
+        <Road>Gorsedd Gardens</Road>
+        <Area>Cathays</Area>
+        <Type>Commemorative</Type>
+        <Teitl>Cerflun yr Arglwydd Ninian Crichton Stuart</Teitl>
+        <Celfyddydwr>William Goscombe John</Celfyddydwr>
+        <Blwyddyn>1919</Blwyddyn>
+        <Ffordd>Gerddi Gorsedd</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Statue of Lord Ninian Crichton Stuart.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318369</easting>
+        <northing>176871</northing>
+        <latitude>51.484877</latitude>
+        <longitude>-3.17701</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-124</id>
+        <Artist>John Evan Thomas</Artist>
+        <Year>1853</Year>
+        <Title>Statue of The Second Marquess of Bute</Title>
+        <Road>Callaghan Square</Road>
+        <Area>Butetown</Area>
+        <Type>Commemorative</Type>
+        <Teitl>Cerflun o Ail Ardalydd Bute</Teitl>
+        <Celfyddydwr>John Evan Thomas</Celfyddydwr>
+        <Blwyddyn>1853</Blwyddyn>
+        <Ffordd>Sgw�r Callaghan</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Statue of Second Marquess of Bute.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318592</easting>
+        <northing>175791</northing>
+        <latitude>51.4752</latitude>
+        <longitude>-3.17355</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-125</id>
+        <Artist>James Pittendrigh Macgillivray</Artist>
+        <Year>1930</Year>
+        <Title>Statue of The Third Marquess of Bute</Title>
+        <Road>Friary Gardens</Road>
+        <Area>Cathays</Area>
+        <Type>Commemorative</Type>
+        <Teitl>Cerflun o Drydydd Ardalydd Bute</Teitl>
+        <Celfyddydwr>James Pittendrigh Macgillivray</Celfyddydwr>
+        <Blwyddyn>1930</Blwyddyn>
+        <Ffordd>Gerddi T?�r Brodyr</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Statue of Third Marquess of Bute.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318218</easting>
+        <northing>176729</northing>
+        <latitude>51.483578</latitude>
+        <longitude>-3.179151</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-126</id>
+        <Artist>Alan Evans</Artist>
+        <Year>1993</Year>
+        <Title>Street Grilles - National Assembly Building</Title>
+        <Road>East Bute Street</Road>
+        <Area>Butetown</Area>
+        <Type>Integrated</Type>
+        <Teitl>Dellt Strydoedd � Adeilad y Cynulliad Cenedlaethol</Teitl>
+        <Celfyddydwr>Alan Evans</Celfyddydwr>
+        <Blwyddyn>1993</Blwyddyn>
+        <Ffordd>Dwyrain Stryd Bute</Ffordd>
+        <Ystyr>Gan ffurfio rhan annatod o ddyluniad yr adeiladau, mae'r griliau awyru hyn yn cynyddu mewn maint a chymhlethdod wrth iddynt agos�u at y brif fynedfa.</Ystyr>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Street Grilles - National Assembly Building.jpg</URL>
+        <city>Cardiff</city>
+        <easting>319451</easting>
+        <northing>174583</northing>
+        <latitude>51.464464</latitude>
+        <longitude>-3.160908</longitude>
+        <description>Forming an integral part of the buildings design, these ventilation grilles increase in size and complexity as they get closer to the main entrance.</description>
+    </artwork>
+    <artwork>
+        <id>CDF-127</id>
+        <Artist>Andrew Rowe</Artist>
+        <Year>2000</Year>
+        <Title>Window Grilles</Title>
+        <Road>Stuttgarter Strasse</Road>
+        <Area>Cathays</Area>
+        <Type>Integrated</Type>
+        <Teitl>Rhwyllau Ffenestri</Teitl>
+        <Celfyddydwr>Andrew Rowe</Celfyddydwr>
+        <Blwyddyn>2000</Blwyddyn>
+        <Ffordd>Stuttgarter Strasse</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Street Grilles - Stuttgarter Strasse.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318542</easting>
+        <northing>176799</northing>
+        <latitude>51.484255</latitude>
+        <longitude>-3.174502</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-128</id>
+        <Artist>Professor Hans Gottfried Von Stockhausen</Artist>
+        <Year>1985</Year>
+        <Title>Stuttgart Stained Glass</Title>
+        <Road>The Hayes (St Davids Hall)</Road>
+        <Area>Cathays</Area>
+        <Type>Interior</Type>
+        <Teitl>Gwydr Lliw Stuttgart</Teitl>
+        <Celfyddydwr>Yr Athro Hans Gottfried Von Stockhausen</Celfyddydwr>
+        <Blwyddyn>1985</Blwyddyn>
+        <Ffordd>Yr Aes (Neuadd Dewi Sant)</Ffordd>
+        <Ystyr>Yn Neuadd Dewi Sant mae�gwydr lliw�a gyflwynwyd i�Gaerdydd gan bobl Stuttgart fel symbol o gyfeillgarwch rhwng y ddwy ddinas.</Ystyr>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Stuttgart Stained Glass.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318398</easting>
+        <northing>176335</northing>
+        <latitude>51.480063</latitude>
+        <longitude>-3.176468</longitude>
+        <description>Located within St David's Hall, this stained glass was presented to Cardiff by the people of Stuttgart as a symbol of friendship between the two cities.</description>
+    </artwork>
+    <artwork>
+        <id>CDF-130</id>
+        <Artist>Harvey Hood</Artist>
+        <Year>1993</Year>
+        <Title>Taff Trail Relief Map</Title>
+        <Road>Roald Dahl Plass</Road>
+        <Area>Butetown</Area>
+        <Type>Street Furniture</Type>
+        <Teitl>Map Cerfwedd Llwybr Taf</Teitl>
+        <Celfyddydwr>Harvey Hood</Celfyddydwr>
+        <Blwyddyn>1993</Blwyddyn>
+        <Ffordd>Plas Roald Dahl</Ffordd>
+        <Ystyr>Mae'r map tirwedd hwn yn dylunio Taith y Taf rhwng Caerdydd ac Aberhonddu. Fel rhan o b�r sy'n cyfateb �'i gilydd, mae'r ail ddarn celf i'w ganfod ar ddiwedd y daith yn Aberhonddu.</Ystyr>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Taff Trail Relief Map.jpg</URL>
+        <city>Cardiff</city>
+        <easting>319238</easting>
+        <northing>174453</northing>
+        <latitude>51.463265</latitude>
+        <longitude>-3.163944</longitude>
+        <description>This relief map depicts the route of the Taff Trail between Cardiff and Brecon. Part of a matching pair, the second artwork can be found at the end of the trail in Brecon.</description>
+    </artwork>
+    <artwork>
+        <id>CDF-131</id>
+        <Artist>Peterson Studios</Artist>
+        <Year>1998</Year>
+        <Title>Territorial Army Centre</Title>
+        <Road>Adam Street</Road>
+        <Area>Adamsdown</Area>
+        <Type>Integrated</Type>
+        <Teitl>Canolfan y Fyddin Diriogaethol</Teitl>
+        <Celfyddydwr>Peterson Studios</Celfyddydwr>
+        <Blwyddyn>1998</Blwyddyn>
+        <Ffordd>Adam Street</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Territorial Army Centre.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318999</easting>
+        <northing>176236</northing>
+        <latitude>51.479259</latitude>
+        <longitude>-3.167793</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-132</id>
+        <Artist>Rachel Joynt</Artist>
+        <Year>2000</Year>
+        <Title>The Big Egg</Title>
+        <Road>Henke Court, Schooner Way</Road>
+        <Area>Butetown</Area>
+        <Type>Freestanding</Type>
+        <Teitl>Yr Wy Mawr</Teitl>
+        <Celfyddydwr>Rachel Joynt</Celfyddydwr>
+        <Blwyddyn>2000</Blwyddyn>
+        <Ffordd>Henke Court, Schooner Way</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/The Big Egg.jpg</URL>
+        <city>Cardiff</city>
+        <easting>319222</easting>
+        <northing>175343</northing>
+        <latitude>51.471263</latitude>
+        <longitude>-3.164378</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-133</id>
+        <Year>1897</Year>
+        <Title>The City Cross</Title>
+        <Road>Cathedral Green, Llandaff</Road>
+        <Area>Llandaff</Area>
+        <Type>Freestanding</Type>
+        <Teitl>Croes y Ddinas</Teitl>
+        <Celfyddydwr>-</Celfyddydwr>
+        <Blwyddyn>1897</Blwyddyn>
+        <Ffordd>Lawnt y Gadeirlan, Llandaf</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/The City Cross.jpg</URL>
+        <city>Cardiff</city>
+        <easting>315504</easting>
+        <northing>178053</northing>
+        <latitude>51.495081</latitude>
+        <longitude>-3.218544</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-135</id>
+        <Artist>Paul Raphael Montford</Artist>
+        <Year>1906</Year>
+        <Title>The Sea Receiving the Severn</Title>
+        <Road>City Hall, Civic Centre</Road>
+        <Area>Cathays</Area>
+        <Type>Integrated</Type>
+        <Teitl>Y M�r yn Derbyn yr Hafren</Teitl>
+        <Celfyddydwr>Paul Raphael Montford</Celfyddydwr>
+        <Blwyddyn>1906</Blwyddyn>
+        <Ffordd>Neuadd y Ddinas, Y Ganolfan Ddinesig</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/The Sea Receiving the Severn.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318269</easting>
+        <northing>176871</northing>
+        <latitude>51.484862</latitude>
+        <longitude>-3.17845</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-136</id>
+        <Artist>Henry Poole</Artist>
+        <Year>1906</Year>
+        <Title>The Taff, the Rhymney and the Ely</Title>
+        <Road>City Hall, Civic Centre</Road>
+        <Area>Cathays</Area>
+        <Type>Integrated</Type>
+        <Teitl>Taf, Rhymni ac El�i</Teitl>
+        <Celfyddydwr>Henry Poole</Celfyddydwr>
+        <Blwyddyn>1906</Blwyddyn>
+        <Ffordd>Neuadd y Ddinas, Y Ganolfan Ddinesig</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/The Taff, the Rhymney and the Ely.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318284</easting>
+        <northing>176882</northing>
+        <latitude>51.484963</latitude>
+        <longitude>-3.178236</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-137</id>
+        <Artist>Lilian Roosenboom</Artist>
+        <Year>2001</Year>
+        <Title>Tide of Black Diamonds</Title>
+        <Road>Callaghan Square</Road>
+        <Area>Butetown</Area>
+        <Type>Integrated</Type>
+        <Teitl>Llanw'r Deiamwntiau Duon</Teitl>
+        <Celfyddydwr>Lilian Roosenboom</Celfyddydwr>
+        <Blwyddyn>2001</Blwyddyn>
+        <Ffordd>Sgw�r Callaghan</Ffordd>
+        <Ystyr>Mae�r llwybr cerdded yn dwyn ynghyd agweddau hanesyddol a chyfoes o economi�r ddinas ac yn symboleiddio (1) trawsgludo glo a (2) throsglwyddo data drwy gyfrwng rhwydweithiau o ffibrau optig.</Ystyr>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Tide of Black Diamonds.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318522</easting>
+        <northing>175848</northing>
+        <latitude>51.475703</latitude>
+        <longitude>-3.17457</longitude>
+        <description>The walkway draws together historic and contemporary aspects of the city's economy and symbolises (1) the transport of coal and (2) data transfer via fibre optic networks.</description>
+    </artwork>
+    <artwork>
+        <id>CDF-138</id>
+        <Artist>Meic Watts</Artist>
+        <Year>1992</Year>
+        <Title>Tidemark Seatwall</Title>
+        <Road>Waterfront Park</Road>
+        <Area>Butetown</Area>
+        <Type>Street Furniture</Type>
+        <Teitl>Wal Eistedd Marc Llanw</Teitl>
+        <Celfyddydwr>Meic Watts</Celfyddydwr>
+        <Blwyddyn>1992</Blwyddyn>
+        <Ffordd>Parc y Glannau</Ffordd>
+        <Ystyr>Mae�r gyfres o farciau tebyg i ffosilau ar y wal yn adlewyrchu tregl amser. Mae�r gwaith celf yn cynnwys pennill morwrol a ysgrifennwyd mewn un deg saith o ieithoedd gwahanol.</Ystyr>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Tidemark Seatwall.jpg</URL>
+        <city>Cardiff</city>
+        <easting>319376</easting>
+        <northing>174339</northing>
+        <latitude>51.46226</latitude>
+        <longitude>-3.161932</longitude>
+        <description>The series of fossil-like markings along the wall reflect the passage of time. The artwork contains a maritime verse that is written in seventeen different languages.</description>
+    </artwork>
+    <artwork>
+        <id>CDF-139</id>
+        <Artist>Andrew Hazell</Artist>
+        <Year>1997</Year>
+        <Title>Trawler Weathervane</Title>
+        <Road>Stuart Street</Road>
+        <Area>Butetown</Area>
+        <Type>Integrated</Type>
+        <Teitl>Treillong y Weathervane</Teitl>
+        <Celfyddydwr>Andrew Hazell</Celfyddydwr>
+        <Blwyddyn>1997</Blwyddyn>
+        <Ffordd>Stryd Stuart</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Trawler Weathervane.jpg</URL>
+        <city>Cardiff</city>
+        <easting>319067</easting>
+        <northing>174425</northing>
+        <latitude>51.462989</latitude>
+        <longitude>-3.166399</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-140</id>
+        <Artist>Diane Maclean</Artist>
+        <Year>1995</Year>
+        <Title>Tree Grills - Mill Lane</Title>
+        <Road>Mill Lane</Road>
+        <Area>Cathays</Area>
+        <Type>Street Furniture</Type>
+        <Teitl>Gridyllau Coed � L�n y Felin</Teitl>
+        <Celfyddydwr>Diane Maclean</Celfyddydwr>
+        <Blwyddyn>1995</Blwyddyn>
+        <Ffordd>L�n y Felin</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Tree Grills - Mill Lane.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318399</easting>
+        <northing>175981</northing>
+        <latitude>51.47688</latitude>
+        <longitude>-3.176372</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-141</id>
+        <Artist>Angharad Pearce Jones</Artist>
+        <Year>2005</Year>
+        <Title>Tree in the Bay</Title>
+        <Road>Harbour Drive, Cardiff Bay</Road>
+        <Area>Butetown</Area>
+        <Type>Street Furniture</Type>
+        <Teitl>Coeden yn y Bae</Teitl>
+        <Celfyddydwr>Angharad Pearce Jones</Celfyddydwr>
+        <Blwyddyn>2005</Blwyddyn>
+        <Ffordd>Harbour Drive, Bae Caerdydd</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Tree in the Bay.jpg</URL>
+        <city>Cardiff</city>
+        <easting>319366</easting>
+        <northing>174380</northing>
+        <latitude>51.462627</latitude>
+        <longitude>-3.162085</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-142</id>
+        <Artist>William Pye</Artist>
+        <Year>2000</Year>
+        <Title>Triple Spout</Title>
+        <Road>Roald Dahl Plass</Road>
+        <Area>Butetown</Area>
+        <Type>Integrated</Type>
+        <Teitl>Ffrwd Triphlyg</Teitl>
+        <Celfyddydwr>William Pye</Celfyddydwr>
+        <Blwyddyn>2000</Blwyddyn>
+        <Ffordd>Plas Roald Dahl</Ffordd>
+        <Ystyr>Mae�r gwaith celf wedi ei leoli mewn pydew dwfn si�p D a oedd yn cael ei ddefnyddio�n hanesyddol ar gyfer tafoli lefelau d?r yn y y Basn Hirgrwn cyfagos.</Ystyr>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Triple Spout.jpg</URL>
+        <city>Cardiff</city>
+        <easting>319236</easting>
+        <northing>174594</northing>
+        <latitude>51.464532</latitude>
+        <longitude>-3.164005</longitude>
+        <description>The artwork is located within a deep D shaped feeder pit that was historically used for balancing water levels in the adjacent Oval Basin.</description>
+    </artwork>
+    <artwork>
+        <id>CDF-143</id>
+        <Artist>Louise Shenstone and Adrian Butler</Artist>
+        <Year>1987</Year>
+        <Title>Union of Shop, Distributive and Allied Workers</Title>
+        <Road>Cathedral Walk</Road>
+        <Area>Cathays</Area>
+        <Type>Integrated</Type>
+        <Teitl>Undeb Gweithwyr Siopau, Dosbarthol a Chynghreiriol</Teitl>
+        <Celfyddydwr>Louise Shenstone ac Adrian Butler</Celfyddydwr>
+        <Blwyddyn>1987</Blwyddyn>
+        <Ffordd>Rhodfa�r Eglwys Gadeiriol</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Union of Shop, Distributive and Allied Workers.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318558</easting>
+        <northing>176391</northing>
+        <latitude>51.480589</latitude>
+        <longitude>-3.174178</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-144</id>
+        <Artist>Henry Poole</Artist>
+        <Year>1906</Year>
+        <Title>Unity and Patriotism</Title>
+        <Road>City Hall, Civic Centre</Road>
+        <Area>Cathays</Area>
+        <Type>Integrated</Type>
+        <Teitl>Undod a Gwladgarwch</Teitl>
+        <Celfyddydwr>Henry Poole</Celfyddydwr>
+        <Blwyddyn>1906</Blwyddyn>
+        <Ffordd>Neuadd y Ddinas, Y Ganolfan Ddinesig</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Unity and Patriotism.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318303</easting>
+        <northing>176901</northing>
+        <latitude>51.485137</latitude>
+        <longitude>-3.177967</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-145</id>
+        <Artist>Andrew Hazell</Artist>
+        <Year>2004</Year>
+        <Title>Funnel and Smoke</Title>
+        <Road>Hemingway Road</Road>
+        <Area>Butetown</Area>
+        <Type>Freestanding</Type>
+        <Teitl>Twndis a Mwg</Teitl>
+        <Celfyddydwr>Andrew Hazell</Celfyddydwr>
+        <Blwyddyn>2004</Blwyddyn>
+        <Ffordd>Heol Hemingway</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Funnel and Smoke.jpg</URL>
+        <city>Cardiff</city>
+        <easting>319572</easting>
+        <northing>174981</northing>
+        <latitude>51.468059</latitude>
+        <longitude>-3.159258</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-146</id>
+        <Artist>David Kemp</Artist>
+        <Year>2001</Year>
+        <Title>Looking Both Ways</Title>
+        <Road>Lloyd George Avenue</Road>
+        <Area>Butetown</Area>
+        <Type>Freestanding</Type>
+        <Teitl>Edrych I'r Ddau Gyfeiriad</Teitl>
+        <Celfyddydwr>David Kemp</Celfyddydwr>
+        <Blwyddyn>2001</Blwyddyn>
+        <Ffordd>Rhodfa Lloyd George</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Looking Both Ways.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318897</easting>
+        <northing>175403</northing>
+        <latitude>51.471756</latitude>
+        <longitude>-3.16907</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-147</id>
+        <Artist>Jeremy Waygood</Artist>
+        <Year>1999</Year>
+        <Title>Urban Open Spaces</Title>
+        <Road>Grangemore Community Park</Road>
+        <Area>Grangetown</Area>
+        <Type>Integrated</Type>
+        <Teitl>Mannau Agored Trefol</Teitl>
+        <Celfyddydwr>Jeremy Waygood</Celfyddydwr>
+        <Blwyddyn>1999</Blwyddyn>
+        <Ffordd>Parc Cymunedol Grangemore</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Urban Open Spaces.jpg</URL>
+        <city>Cardiff</city>
+        <easting>317620</easting>
+        <northing>173856</northing>
+        <latitude>51.457664</latitude>
+        <longitude>-3.18709</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-148</id>
+        <Artist>Text by Gwyneth Lewis</Artist>
+        <Year>2005</Year>
+        <Title>Wales Millennium Centre - Building Fa�ade</Title>
+        <Road>Roald Dahl Plass</Road>
+        <Area>Butetown</Area>
+        <Type>Integrated</Type>
+        <Teitl>Canolfan Mileniwm Cymru - Ffas�d yr Adeilad</Teitl>
+        <Celfyddydwr>Geiriau Gwyneth Lewis</Celfyddydwr>
+        <Blwyddyn>2005</Blwyddyn>
+        <Ffordd>Plas Roald Dahl</Ffordd>
+        <Ystyr>"Mae�r llythrennau mawr celtaidd yn llunio dwy arysgrif: ""CREU GWIR FEL GWYDR O FFWRNAIS AWEN"" ac ""IN THESE STONES HORIZONS SING""."</Ystyr>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Wales Millennium Centre - Building Facade.jpg</URL>
+        <city>Cardiff</city>
+        <easting>319248</easting>
+        <northing>174630</northing>
+        <latitude>51.464857</latitude>
+        <longitude>-3.163841</longitude>
+        <description>"The large Celtic lettering contains two inscriptions: ""CREU GWIR FEL GWYDR O FFWRNAIS AWEN"" (Truth is as clear as glass forged in the flames of inspiration) and ""IN THESE STONES HORIZONS SING""."</description>
+    </artwork>
+    <artwork>
+        <id>CDF-149</id>
+        <Artist>Ann Catrin Evans</Artist>
+        <Year>2005</Year>
+        <Title>Wales Millennium Centre - Door Furniture</Title>
+        <Road>Roald Dahl Plass</Road>
+        <Area>Butetown</Area>
+        <Type>Integrated</Type>
+        <Teitl>Canolfan Mileniwm Cymru - Dodrefn Drysau</Teitl>
+        <Celfyddydwr>Ann Catrin Evans</Celfyddydwr>
+        <Blwyddyn>2005</Blwyddyn>
+        <Ffordd>Plas Roald Dahl</Ffordd>
+        <Ystyr>Mae dolenni�r prif ddrysau yn seiliedig ar offerynnau cerdd. Mae�r patrwm ar y platiau gwthio yn deillio o�r crychdonni ar dywod gan y llanw o gwmpas arfordir Cymru.</Ystyr>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Wales Millennium Centre - Door Furniture.jpg</URL>
+        <city>Cardiff</city>
+        <easting>319257</easting>
+        <northing>174630</northing>
+        <latitude>51.464859</latitude>
+        <longitude>-3.163711</longitude>
+        <description>The handles on the main doors are based on musical instruments. The push plates represent the ripples made in sand by the tides around the Welsh coastline.</description>
+    </artwork>
+    <artwork>
+        <id>CDF-150</id>
+        <Artist>Amber Hiscott</Artist>
+        <Year>2005</Year>
+        <Title>Wales Millennium Centre - Colourfall</Title>
+        <Road>Roald Dahl Plass</Road>
+        <Area>Butetown</Area>
+        <Type>Interior</Type>
+        <Teitl>Canolfan Mileniwm Cymru - Rhaeadr Lliwiau</Teitl>
+        <Celfyddydwr>Amber Hiscott</Celfyddydwr>
+        <Blwyddyn>2005</Blwyddyn>
+        <Ffordd>Plas Roald Dahl</Ffordd>
+        <Ystyr>Mae�r gwaith gwydr mewn hwn yn rhaeadru o�r ystafelloedd digwyddiadau ar dop Canolfan y Mileniwm i lawr i�r siop goffi islaw.</Ystyr>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Wales Millennium Centre - Colourfall.jpg</URL>
+        <city>Cardiff</city>
+        <easting>319270</easting>
+        <northing>174652</northing>
+        <latitude>51.465058</latitude>
+        <longitude>-3.163529</longitude>
+        <description>This internal glasswork cascades from the function rooms at the top of the Millennium Centre down to the coffee shop below.</description>
+    </artwork>
+    <artwork>
+        <id>CDF-151</id>
+        <Artist>William Pye</Artist>
+        <Year>2000</Year>
+        <Title>Water Tower - Cardiff Bay</Title>
+        <Road>Roald Dahl Plass</Road>
+        <Area>Butetown</Area>
+        <Type>Freestanding</Type>
+        <Teitl>Y T?r D?r � Bae Caerdydd</Teitl>
+        <Celfyddydwr>William Pye</Celfyddydwr>
+        <Blwyddyn>2000</Blwyddyn>
+        <Ffordd>Plas Roald Dahl</Ffordd>
+        <Ystyr>Wedi ei leoli ger y mynedfa i Plass Roald Dahl, mae�r t?r d?r 70troedfedd hwn wedi bod mewn rhaglenni Dr Who a Torchwood ar y teledu.</Ystyr>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Water Tower - Cardiff Bay.jpg</URL>
+        <city>Cardiff</city>
+        <easting>319215</easting>
+        <northing>174595</northing>
+        <latitude>51.464538</latitude>
+        <longitude>-3.164308</longitude>
+        <description>Located at the entrance to Roald Dahl Plass, this 70ft high water tower has featured in episodes of the TV series Dr Who and Torchwood.</description>
+    </artwork>
+    <artwork>
+        <id>CDF-152</id>
+        <Artist>Amber Hiscott and David Pearl</Artist>
+        <Year>2000</Year>
+        <Title>Water Towers - Callaghan Square</Title>
+        <Road>Callaghan Square</Road>
+        <Area>Butetown</Area>
+        <Type>Freestanding</Type>
+        <Teitl>Y T?r D?r � Sgw�r Callaghan</Teitl>
+        <Celfyddydwr>Amber Hiscott a David Pearl</Celfyddydwr>
+        <Blwyddyn>2000</Blwyddyn>
+        <Ffordd>Sgw�r Callaghan</Ffordd>
+        <Ystyr>Mae�r tyrau saffir las o aliminiwm wedi cael eu torri � laser gyda chynllun sy�n cyfleu d?r yn tasgu a sblasio.</Ystyr>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Water Towers - Callaghan Square.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318485</easting>
+        <northing>175770</northing>
+        <latitude>51.474996</latitude>
+        <longitude>-3.175085</longitude>
+        <description>The sapphire blue aluminium towers have been laser cut with a design that evokes the spray of splashing water.</description>
+    </artwork>
+    <artwork>
+        <id>CDF-153</id>
+        <Artist>Jeremy Waygood</Artist>
+        <Year>1998</Year>
+        <Title>Waterfront Plaque</Title>
+        <Road>Seager Drive</Road>
+        <Area>Grangetown</Area>
+        <Type>Integrated</Type>
+        <Teitl>Plac Glan y D?r</Teitl>
+        <Celfyddydwr>Jeremy Waygood</Celfyddydwr>
+        <Blwyddyn>1998</Blwyddyn>
+        <Ffordd>Seager Drive</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Waterfront Plaque.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318149</easting>
+        <northing>173758</northing>
+        <latitude>51.45686</latitude>
+        <longitude>-3.179455</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-154</id>
+        <Artist>Charles Quick and Alan Rogers</Artist>
+        <Year>1995</Year>
+        <Title>Watermark</Title>
+        <Road>Lloyd George Avenue</Road>
+        <Area>Butetown</Area>
+        <Type>Freestanding</Type>
+        <Teitl>Marc y D?r</Teitl>
+        <Celfyddydwr>Charles Quick ac Alan Rogers</Celfyddydwr>
+        <Blwyddyn>1995</Blwyddyn>
+        <Ffordd>Rhodfa Lloyd George</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Watermark.jpg</URL>
+        <city>Cardiff</city>
+        <easting>319264</easting>
+        <northing>174746</northing>
+        <latitude>51.465902</latitude>
+        <longitude>-3.163637</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-155</id>
+        <Artist>Henry Charles Fehr</Artist>
+        <Year>1906</Year>
+        <Title>Welsh Dragon - City Hall</Title>
+        <Road>City Hall, Civic Centre</Road>
+        <Area>Cathays</Area>
+        <Type>Integrated</Type>
+        <Teitl>Draig Cymru � Neuadd y Ddinas</Teitl>
+        <Celfyddydwr>Henry Charles Fehr</Celfyddydwr>
+        <Blwyddyn>1906</Blwyddyn>
+        <Ffordd>Neuadd y Ddinas, Y Ganolfan Ddinesig</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Welsh Dragon - City Hall.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318273</easting>
+        <northing>176882</northing>
+        <latitude>51.484962</latitude>
+        <longitude>-3.178395</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-156</id>
+        <Artist>Sir J. Ninian Comper</Artist>
+        <Year>1928</Year>
+        <Title>Welsh National War Memorial</Title>
+        <Road>Alexandra Gardens, Civic Centre</Road>
+        <Area>Cathays</Area>
+        <Type>Commemorative</Type>
+        <Teitl>Cofeb Rhyfel Cenedlaethol Cymru</Teitl>
+        <Celfyddydwr>Sir J. Ninian Comper</Celfyddydwr>
+        <Blwyddyn>1928</Blwyddyn>
+        <Ffordd>Gerddi Alexandra, Y Ganolfan Ddinesig</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Welsh National War Memorial.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318135</easting>
+        <northing>177064</northing>
+        <latitude>51.486578</latitude>
+        <longitude>-3.180424</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-157</id>
+        <Artist>Nina Edge and David Mackie</Artist>
+        <Year>1993</Year>
+        <Title>West Close Square</Title>
+        <Road>West Close, Butetown</Road>
+        <Area>Butetown</Area>
+        <Type>Street Furniture</Type>
+        <Teitl>Sgw�r West Close</Teitl>
+        <Celfyddydwr>Nina Edge a David Mackie</Celfyddydwr>
+        <Blwyddyn>1993</Blwyddyn>
+        <Ffordd>West Close, Butetown</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/West Close Square.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318938</easting>
+        <northing>174837</northing>
+        <latitude>51.466674</latitude>
+        <longitude>-3.16835</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-158</id>
+        <Year>1920</Year>
+        <Title>Whitchurch War Memorial</Title>
+        <Road>Velindre Road, Whitchurch</Road>
+        <Area>Whitchurch and Tongwynlais</Area>
+        <Type>Commemorative</Type>
+        <Teitl>Cofeb Rhyfel yr Eglwys Newydd</Teitl>
+        <Celfyddydwr>-</Celfyddydwr>
+        <Blwyddyn>1920</Blwyddyn>
+        <Ffordd>Velindre Road, Yr Eglwys Newydd</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Whitchurch War Memorial.jpg</URL>
+        <city>Cardiff</city>
+        <easting>315085</easting>
+        <northing>180388</northing>
+        <latitude>51.516008</latitude>
+        <longitude>-3.225141</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-159</id>
+        <Artist>Graham Ibbeson</Artist>
+        <Year>1993</Year>
+        <Title>Wife on the Ocean Wave</Title>
+        <Road>Graving Docks, Cardiff Bay</Road>
+        <Area>Butetown</Area>
+        <Type>Freestanding</Type>
+        <Teitl>Gwraig ar y M�r</Teitl>
+        <Celfyddydwr>Graham Ibbeson</Celfyddydwr>
+        <Blwyddyn>1993</Blwyddyn>
+        <Ffordd>Dociau Graving, Bae Caerdydd</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Wife on the Ocean Wave.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318984</easting>
+        <northing>174323</northing>
+        <latitude>51.46206</latitude>
+        <longitude>-3.16757</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-160</id>
+        <Artist>Andrew Hazell</Artist>
+        <Year>2000</Year>
+        <Title>Willows Clock</Title>
+        <Road>Tacoma Square, Mermaid Quay</Road>
+        <Area>Butetown</Area>
+        <Type>Integrated</Type>
+        <Teitl>Cloc Willows</Teitl>
+        <Celfyddydwr>Andrew Hazell</Celfyddydwr>
+        <Blwyddyn>2000</Blwyddyn>
+        <Ffordd>Sgw�r Tacoma, Cei'r F�r-forwyn</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Willows Clock.jpg</URL>
+        <city>Cardiff</city>
+        <easting>319171</easting>
+        <northing>174465</northing>
+        <latitude>51.463363</latitude>
+        <longitude>-3.164911</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-161</id>
+        <Artist>Danny Lane</Artist>
+        <Year>2006</Year>
+        <Title>Wind Hedge</Title>
+        <Road>The Senedd, Harbour Drive</Road>
+        <Area>Butetown</Area>
+        <Type>Integrated</Type>
+        <Teitl>Clawdd y Gwynt</Teitl>
+        <Celfyddydwr>Danny Lane</Celfyddydwr>
+        <Blwyddyn>2006</Blwyddyn>
+        <Ffordd>Y Senedd, Harbour Drive</Ffordd>
+        <Ystyr>Er eu bod yn agos at Y Senedd, mae�r pum rhes cyfochrog o dri deg a dwy elfen wydr fertigol yn adleisio cynllun yr adeilad drwy fod yn dryloyw ac yn athraidd.</Ystyr>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Wind Hedge.jpg</URL>
+        <city>Cardiff</city>
+        <easting>319310</easting>
+        <northing>174496</northing>
+        <latitude>51.463662</latitude>
+        <longitude>-3.162918</longitude>
+        <description>Although they enclose The Senedd, the five parallel rows of thirty-two vertical glass elements echo the design of the building by being both transparent and permeable.</description>
+    </artwork>
+    <artwork>
+        <id>CDF-162</id>
+        <Artist>Nansi Hemmings</Artist>
+        <Year>2004</Year>
+        <Title>Wood Sculpture - Fox and Owl</Title>
+        <Road>Bute Park</Road>
+        <Area>Cathays</Area>
+        <Type>Freestanding</Type>
+        <Teitl>Cerflun Pren - y Cadno a'r Gwdih?</Teitl>
+        <Celfyddydwr>Nansi Hemmings</Celfyddydwr>
+        <Blwyddyn>2004</Blwyddyn>
+        <Ffordd>Parc Bute</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Wood Sculpture - Fox and Owl.jpg</URL>
+        <city>Cardiff</city>
+        <easting>317519</easting>
+        <northing>177372</northing>
+        <latitude>51.489257</latitude>
+        <longitude>-3.189366</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-163</id>
+        <Artist>Dave King</Artist>
+        <Year>2004</Year>
+        <Title>Wood Sculpture - Otters and Red Kite</Title>
+        <Road>Bute Park</Road>
+        <Area>Cathays</Area>
+        <Type>Freestanding</Type>
+        <Teitl>Cerflun Pren � Y Dyfrgi a�r Barcud Coch</Teitl>
+        <Celfyddydwr>Dave King</Celfyddydwr>
+        <Blwyddyn>2004</Blwyddyn>
+        <Ffordd>Parc Bute</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Wood Sculpture - Otters and Red Kite.jpg</URL>
+        <city>Cardiff</city>
+        <easting>317632</easting>
+        <northing>177092</northing>
+        <latitude>51.486756</latitude>
+        <longitude>-3.187673</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-164</id>
+        <Artist>Jayne Sparks</Artist>
+        <Year>2004</Year>
+        <Title>Wood Sculpture - Tribute to Dwynwen</Title>
+        <Road>Bute Park</Road>
+        <Area>Cathays</Area>
+        <Type>Freestanding</Type>
+        <Teitl>Cerflun Pren � Teyrnged I Dwynwen</Teitl>
+        <Celfyddydwr>Jayne Sparks</Celfyddydwr>
+        <Blwyddyn>2004</Blwyddyn>
+        <Ffordd>Parc Bute</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Wood Sculpture - Tribute to Dwynwen.jpg</URL>
+        <city>Cardiff</city>
+        <easting>317643</easting>
+        <northing>177103</northing>
+        <latitude>51.486857</latitude>
+        <longitude>-3.187517</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-165</id>
+        <Artist>David Williams</Artist>
+        <Year>2004</Year>
+        <Title>Wood Sculpture - Bute Park 1</Title>
+        <Road>Bute Park</Road>
+        <Area>Cathays</Area>
+        <Type>Freestanding</Type>
+        <Teitl>Cerflun Pren � Parc Bute 1</Teitl>
+        <Celfyddydwr>David Williams</Celfyddydwr>
+        <Blwyddyn>2004</Blwyddyn>
+        <Ffordd>Parc Bute</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Wood Sculpture - Bute Park 1.jpg</URL>
+        <city>Cardiff</city>
+        <easting>317653</easting>
+        <northing>177092</northing>
+        <latitude>51.48676</latitude>
+        <longitude>-3.187371</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-166</id>
+        <Title>Wood Sculpture - Roath Park</Title>
+        <Road>Roath Park</Road>
+        <Area>Cyncoed</Area>
+        <Type>Freestanding</Type>
+        <Teitl>Cerflun Pren - Parc y Rhath</Teitl>
+        <Celfyddydwr>-</Celfyddydwr>
+        <Blwyddyn>0</Blwyddyn>
+        <Ffordd>Parc y Rhath</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Wood Sculpture - Roath Park.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318583</easting>
+        <northing>179257</northing>
+        <latitude>51.506357</latitude>
+        <longitude>-3.17448</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-167</id>
+        <Title>Wood Sculpture - Roath Park BFG</Title>
+        <Road>Roath Park</Road>
+        <Area>Cyncoed</Area>
+        <Type>Freestanding</Type>
+        <Teitl>Cerflun Pren - Parc y Rhath BFG</Teitl>
+        <Celfyddydwr>-</Celfyddydwr>
+        <Blwyddyn>0</Blwyddyn>
+        <Ffordd>Parc y Rhath</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Wood Sculpture - Roath Park BFG.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318595</easting>
+        <northing>179223</northing>
+        <latitude>51.506053</latitude>
+        <longitude>-3.174299</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-168</id>
+        <Year>1992</Year>
+        <Title>Memorial to Welsh Volunteers in the Spanish Civil War</Title>
+        <Road>Alexandra Gardens, Civic Centre</Road>
+        <Area>Cathays</Area>
+        <Type>Commemorative</Type>
+        <Teitl>Cofeb i Wirfoddolwyr Cymru yn Rhyfel Cartref Sbaen</Teitl>
+        <Celfyddydwr>-</Celfyddydwr>
+        <Blwyddyn>1992</Blwyddyn>
+        <Ffordd>Gerddi Alexandra, Y Ganolfan Ddinesig</Ffordd>
+        <Ystyr>"Cafodd y gwaith celf coffaol hwn ei gyflwyno i'r gwirfoddolwyr Cymreig dros ryddid a ddiogelodd democratiaeth yn ystod Rhyfel Cartref Sbaen, 1936 - 1938"""</Ystyr>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Memorial to Welsh Volunteers in the Spanish Civil War.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318196</easting>
+        <northing>177036</northing>
+        <latitude>51.486335</latitude>
+        <longitude>-3.179539</longitude>
+        <description>"This commemorative artwork is ""Dedicated to the Welsh volunteers for liberty who defended democracy in the Spanish Civil War, 1936-1938"""</description>
+    </artwork>
+    <artwork>
+        <id>CDF-169</id>
+        <Artist>Felice Varini</Artist>
+        <Year>2007</Year>
+        <Title>3 Ellipses for 3 Locks</Title>
+        <Road>Cardiff Bay Barrage</Road>
+        <Area>Grangetown</Area>
+        <Type>Integrated</Type>
+        <Teitl>3 Hirgylch ar gyfer 3 Loc</Teitl>
+        <Celfyddydwr>Felice Varini</Celfyddydwr>
+        <Blwyddyn>2007</Blwyddyn>
+        <Ffordd>Morglawdd Bae Caerdydd</Ffordd>
+        <Ystyr>Delwedd anamorffig yw�r gwaith celf sydd ddim ond yn gallu cael ei weld fel tri chylch cyflawn o un safle ar Forglawdd Bae Caerdydd.</Ystyr>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/3 Ellipses for 3 Locks.jpg</URL>
+        <city>Cardiff</city>
+        <easting>319052</easting>
+        <northing>172620</northing>
+        <latitude>51.44676</latitude>
+        <longitude>-3.166201</longitude>
+        <description>The artwork is an anamorphic illusion and can only be viewed as three complete circles from a single vantage point on the Cardiff Bay Barrage.</description>
+    </artwork>
+    <artwork>
+        <id>CDF-170</id>
+        <Artist>William Burges</Artist>
+        <Year>1873</Year>
+        <Title>Cardiff Castle Clock Tower</Title>
+        <Road>Castle Street</Road>
+        <Area>Cathays</Area>
+        <Type>Integrated</Type>
+        <Teitl>T?r Cloc Castell Caerdydd</Teitl>
+        <Celfyddydwr>William Burges</Celfyddydwr>
+        <Blwyddyn>1873</Blwyddyn>
+        <Ffordd>Heol y Castell</Ffordd>
+        <Ystyr>Mae saith ffigur yn nh?r y cloc yn cynrychioli saith planed a�r duwiau Rhufeinig sy�n gyfatebol � nhw. Mae pob un yn dal eitem sy'n berthnasol i'w harwydd sodiac.</Ystyr>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Cardiff Castle Clock Tower.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318017</easting>
+        <northing>176485</northing>
+        <latitude>51.481356</latitude>
+        <longitude>-3.181988</longitude>
+        <description>The clock tower contains seven figures that represent seven planets and their corresponding Roman Gods. Each figure holds an item relating to their sign of the zodiac.</description>
+    </artwork>
+    <artwork>
+        <id>CDF-171</id>
+        <Artist>Graham Jones</Artist>
+        <Year>2007</Year>
+        <Title>Etap Hotel</Title>
+        <Road>Tyndall Street</Road>
+        <Area>Butetown</Area>
+        <Type>Integrated</Type>
+        <Teitl>Gwesty Etap</Teitl>
+        <Celfyddydwr>Graham Jones</Celfyddydwr>
+        <Blwyddyn>2007</Blwyddyn>
+        <Ffordd>Tyndall Street</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Etap Hotel.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318894</easting>
+        <northing>175898</northing>
+        <latitude>51.476206</latitude>
+        <longitude>-3.169227</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-172</id>
+        <Artist>Henry Charles Fehr</Artist>
+        <Year>1920</Year>
+        <Title>Grange Gardens War Memorial</Title>
+        <Road>Grange Gardens</Road>
+        <Area>Grangetown</Area>
+        <Type>Commemorative</Type>
+        <Teitl>Cofeb Rhyfel Gerddi�r Grange</Teitl>
+        <Celfyddydwr>Henry Charles Fehr</Celfyddydwr>
+        <Blwyddyn>1920</Blwyddyn>
+        <Ffordd>Gerddi�r Grange</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Grange Gardens War Memorial.jpg</URL>
+        <city>Cardiff</city>
+        <easting>317996</easting>
+        <northing>174906</northing>
+        <latitude>51.467158</latitude>
+        <longitude>-3.181924</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-174</id>
+        <Artist>Sir Edwin Lutyens</Artist>
+        <Year>1924</Year>
+        <Title>Maindy Barracks War Memorial</Title>
+        <Road>Whitchurch Road</Road>
+        <Area>Cathays</Area>
+        <Type>Commemorative</Type>
+        <Teitl>Cofeb Rhyfel Barics Maendy</Teitl>
+        <Celfyddydwr>Sir Edwin Lutyens</Celfyddydwr>
+        <Blwyddyn>1924</Blwyddyn>
+        <Ffordd>Whitchurch Road</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Maindy Barracks War Memorial.jpg</URL>
+        <city>Cardiff</city>
+        <easting>317894</easting>
+        <northing>178373</northing>
+        <latitude>51.49831</latitude>
+        <longitude>-3.184199</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-175</id>
+        <Artist>Peter Randall-Page</Artist>
+        <Year>2007</Year>
+        <Title>Mind's Eye</Title>
+        <Road>Park Place</Road>
+        <Area>Cathays</Area>
+        <Type>Integrated</Type>
+        <Teitl>Llygad y Meddwl</Teitl>
+        <Celfyddydwr>Peter Randall-Page</Celfyddydwr>
+        <Blwyddyn>2007</Blwyddyn>
+        <Ffordd>Plas y Parc</Ffordd>
+        <Ystyr>Wedi eu gwneud o 1000 o deils teracota a grefftiwyd yn unigol, rhaid sefyll union tu allan i fynedfa�r adeilad i werthfawrogi effaith cyflawn y patrwm.</Ystyr>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Mind's Eye.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318126</easting>
+        <northing>177329</northing>
+        <latitude>51.488959</latitude>
+        <longitude>-3.180615</longitude>
+        <description>Made from over 1000 individually crafted terracotta tiles, the full effect of the pattern only becomes apparent when standing directly outside the buildings entrance.</description>
+    </artwork>
+    <artwork>
+        <id>CDF-176</id>
+        <Artist>Anton Agius</Artist>
+        <Year>2001</Year>
+        <Title>Peace Sculpture</Title>
+        <Road>City Halls Main Entrance</Road>
+        <Area>Cathays</Area>
+        <Type>Commemorative</Type>
+        <Teitl>Cerflun Heddwch</Teitl>
+        <Celfyddydwr>Anton Agius</Celfyddydwr>
+        <Blwyddyn>2001</Blwyddyn>
+        <Ffordd>Neuadd y Ddinas, Prif Fynedfa</Ffordd>
+        <Ystyr>Mae�r cerflun yn coffau�r rhai hynny a orymdeithiodd o Gaerdydd i RAF Greenham Common yn 1981 i wrthdystio yn erbyn defnyddio�r ardal ar gyfer lleoli taflegrau cruise.</Ystyr>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Peace Sculpture.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318276</easting>
+        <northing>176873</northing>
+        <latitude>51.484881</latitude>
+        <longitude>-3.178349</longitude>
+        <description>The statue commemorates those who marched from Cardiff to RAF Greenham Common in 1981 to protest against the use of the area to site cruise missiles.</description>
+    </artwork>
+    <artwork>
+        <id>CDF-177</id>
+        <Artist>Alfred Turner</Artist>
+        <Title>Radyr War Memorial</Title>
+        <Road>Heol Isaf / Kings Road</Road>
+        <Area>Radyr</Area>
+        <Type>Commemorative</Type>
+        <Teitl>Cofeb Rhyfel Radur</Teitl>
+        <Celfyddydwr>Alfred Turner</Celfyddydwr>
+        <Blwyddyn>0</Blwyddyn>
+        <Ffordd>Heol Isaf / Kings Road</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Radyr War Memorial.jpg</URL>
+        <city>Cardiff</city>
+        <easting>313283</easting>
+        <northing>180265</northing>
+        <latitude>51.514629</latitude>
+        <longitude>-3.251074</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-178</id>
+        <Artist>William Goscombe John</Artist>
+        <Year>1904</Year>
+        <Title>Sleeping Dragons</Title>
+        <Road>University of Wales, Civic Centre</Road>
+        <Area>Cathays</Area>
+        <Type>Freestanding</Type>
+        <Teitl>Dreigiau'n Cysgu</Teitl>
+        <Celfyddydwr>William Goscombe John</Celfyddydwr>
+        <Blwyddyn>1904</Blwyddyn>
+        <Ffordd>Prifysgol Cymru, Y Ganolfan Ddinesig</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Sleeping Dragons.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318107</easting>
+        <northing>176951</northing>
+        <latitude>51.485558</latitude>
+        <longitude>-3.180801</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-180</id>
+        <Artist>Adrian Moakes</Artist>
+        <Year>2006</Year>
+        <Title>Natural Selection</Title>
+        <Road>Rover Way, Pengam Green</Road>
+        <Area>Splott</Area>
+        <Type>Freestanding</Type>
+        <Teitl>Anianol Detholiad</Teitl>
+        <Celfyddydwr>Adrian Moakes</Celfyddydwr>
+        <Blwyddyn>2006</Blwyddyn>
+        <Ffordd>Rover Way, Pengam Green</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Natural Selection.jpg</URL>
+        <city>Cardiff</city>
+        <easting>321708</easting>
+        <northing>177250</northing>
+        <latitude>51.488757</latitude>
+        <longitude>-3.129017</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-182</id>
+        <Artist>Amber Hiscott</Artist>
+        <Year>2005</Year>
+        <Title>Wales Millennium Centre - External Glass Manifestation</Title>
+        <Road>Roald Dahl Plass</Road>
+        <Area>Butetown</Area>
+        <Type>Integrated</Type>
+        <Teitl>Canolfan Mileniwm Cymru - Amlygiad Gwydr Allanol</Teitl>
+        <Celfyddydwr>Amber Hiscott</Celfyddydwr>
+        <Blwyddyn>2005</Blwyddyn>
+        <Ffordd>Plas Roald Dahl</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Wales Millennium Centre - External Glass Manifestation.jpg</URL>
+        <city>Cardiff</city>
+        <easting>319257</easting>
+        <northing>174664</northing>
+        <latitude>51.465164</latitude>
+        <longitude>-3.163719</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-184</id>
+        <Artist>Howard Bowcott</Artist>
+        <Year>2006</Year>
+        <Title>Water Quarter</Title>
+        <Road>Galleon Way</Road>
+        <Area>Butetown</Area>
+        <Type>Freestanding</Type>
+        <Teitl>Cwr y D?r</Teitl>
+        <Celfyddydwr>Howard Bowcott</Celfyddydwr>
+        <Blwyddyn>2006</Blwyddyn>
+        <Ffordd>Galleon Way</Ffordd>
+        <Ystyr>Mae�r cerflun tri medr o uchder wedi ei ffurfio o filoedd o lechi unigol a chafodd ei adeiladu�n gyfan gwbl � llaw a saif yn un o�r tri phwll d?r.</Ystyr>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Water Quarter.jpg</URL>
+        <city>Cardiff</city>
+        <easting>319481</easting>
+        <northing>175138</northing>
+        <latitude>51.469457</latitude>
+        <longitude>-3.160603</longitude>
+        <description>Formed from thousands of individual slates, the three metre high sculpture was constructed entirely by hand and stands within one of three water pools.</description>
+    </artwork>
+    <artwork>
+        <id>CDF-186</id>
+        <Year>2007</Year>
+        <Title>Wood Sculpture - Bute Park 2</Title>
+        <Road>Bute Park</Road>
+        <Area>Cathays</Area>
+        <Type>Freestanding</Type>
+        <Teitl>Cerflun Pren � Parc Bute 2</Teitl>
+        <Celfyddydwr>-</Celfyddydwr>
+        <Blwyddyn>2007</Blwyddyn>
+        <Ffordd>Parc Bute</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Wood Sculpture - Bute Park 2.jpg</URL>
+        <city>Cardiff</city>
+        <easting>317772</easting>
+        <northing>176934</northing>
+        <latitude>51.485357</latitude>
+        <longitude>-3.18562</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-187</id>
+        <Artist>David Griffiths</Artist>
+        <Year>2005</Year>
+        <Title>Wood Sculpture - Grange Gardens</Title>
+        <Road>Grange Gardens</Road>
+        <Area>Grangetown</Area>
+        <Type>Freestanding</Type>
+        <Teitl>Cerflun Pren � Gerddi�r Grange</Teitl>
+        <Celfyddydwr>David Griffiths</Celfyddydwr>
+        <Blwyddyn>2005</Blwyddyn>
+        <Ffordd>Gerddi�r Grange</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Wood Sculpture - Grange Gardens.jpg</URL>
+        <city>Cardiff</city>
+        <easting>317989</easting>
+        <northing>174884</northing>
+        <latitude>51.466959</latitude>
+        <longitude>-3.182019</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-188</id>
+        <Artist>David King</Artist>
+        <Title>Wood Sculpture - Green Man</Title>
+        <Road>Thompson's Park</Road>
+        <Area>Canton</Area>
+        <Type>Freestanding</Type>
+        <Teitl>Cerflun Pren � Y Dyn Gwyrdd</Teitl>
+        <Celfyddydwr>David King</Celfyddydwr>
+        <Blwyddyn>0</Blwyddyn>
+        <Ffordd>Parc Thompson</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Wood Sculpture - Green Man.jpg</URL>
+        <city>Cardiff</city>
+        <easting>316202</easting>
+        <northing>177004</northing>
+        <latitude>51.485755</latitude>
+        <longitude>-3.208242</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-189</id>
+        <Title>St Mellons War Memorial</Title>
+        <Road>Newport Road / Chapel Row</Road>
+        <Area>Old St Mellons</Area>
+        <Type>Commemorative</Type>
+        <Teitl>Cofeb Rhyfel Llaneirwg</Teitl>
+        <Celfyddydwr>-</Celfyddydwr>
+        <Blwyddyn>0</Blwyddyn>
+        <Ffordd>Heol Casnewydd / Chapel Row</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/St Mellons War Memorial.jpg</URL>
+        <city>Cardiff</city>
+        <easting>322861</easting>
+        <northing>181148</northing>
+        <latitude>51.523957</latitude>
+        <longitude>-3.113268</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-193</id>
+        <Artist>Alexander Beleschenko</Artist>
+        <Year>2006</Year>
+        <Title>The Heart of Wales</Title>
+        <Road>The Senedd, Harbour Drive</Road>
+        <Area>Butetown</Area>
+        <Type>Interior</Type>
+        <Teitl>Calon Cymru</Teitl>
+        <Celfyddydwr>Alexander Beleschenko</Celfyddydwr>
+        <Blwyddyn>2006</Blwyddyn>
+        <Ffordd>Y Senedd, Harbour Drive</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/The Heart of Wales.jpg</URL>
+        <city>Cardiff</city>
+        <easting>319349</easting>
+        <northing>174501</northing>
+        <latitude>51.463712</latitude>
+        <longitude>-3.162358</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-194</id>
+        <Title>Lighting Columns - Welsh Office</Title>
+        <Road>College Road, Civic Centre</Road>
+        <Area>Cathays</Area>
+        <Type>Street Furniture</Type>
+        <Teitl>Colofnau Golau � Y Swyddfa Gymreig</Teitl>
+        <Celfyddydwr>-</Celfyddydwr>
+        <Blwyddyn>0</Blwyddyn>
+        <Ffordd>Heol y Coleg, Y Ganolfan Ddinesig</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Lighting Columns - Welsh Office.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318036</easting>
+        <northing>177181</northing>
+        <latitude>51.487615</latitude>
+        <longitude>-3.181876</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-196</id>
+        <Artist>Cindy Ward</Artist>
+        <Year>2005</Year>
+        <Title>Albany Primary School Mosaic and Railings</Title>
+        <Road>Albany Road</Road>
+        <Area>Plasnewydd</Area>
+        <Type>Street Furniture</Type>
+        <Teitl>Mosaig a Rheilins Ysgol Gynradd Albany</Teitl>
+        <Celfyddydwr>Cindy Ward</Celfyddydwr>
+        <Blwyddyn>2005</Blwyddyn>
+        <Ffordd>Albany Road</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Albany Primary School Mosaic and Railings.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318979</easting>
+        <northing>177805</northing>
+        <latitude>51.493361</latitude>
+        <longitude>-3.168441</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-197</id>
+        <Year>2007</Year>
+        <Title>Welsh National Falklands Memorial</Title>
+        <Road>Alexandra Gardens, Civic Centre</Road>
+        <Area>Cathays</Area>
+        <Type>Commemorative</Type>
+        <Teitl>Cofeb Y Falklands Cenedlaethol Cymru</Teitl>
+        <Celfyddydwr>-</Celfyddydwr>
+        <Blwyddyn>2007</Blwyddyn>
+        <Ffordd>Gerddi Alexandra, Y Ganolfan Ddinesig</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Welsh National Falklands Memorial.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318174</easting>
+        <northing>177048</northing>
+        <latitude>51.48644</latitude>
+        <longitude>-3.179859</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-198</id>
+        <Artist>Andrew Rowe, David Mackie and Heather Parnell</Artist>
+        <Year>2006</Year>
+        <Title>Gerddi Courtmead Gardens</Title>
+        <Road>Court Road</Road>
+        <Area>Grangetown</Area>
+        <Type>Street Furniture</Type>
+        <Teitl>Gerddi Courtmead</Teitl>
+        <Celfyddydwr>Andrew Rowe, David Mackie a Heather Parnell</Celfyddydwr>
+        <Blwyddyn>2006</Blwyddyn>
+        <Ffordd>Court Road</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Gerddi Courtmead Gardens.jpg</URL>
+        <city>Cardiff</city>
+        <easting>317404</easting>
+        <northing>175531</northing>
+        <latitude>51.47269</latitude>
+        <longitude>-3.19059</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-199</id>
+        <Artist>Kyle Legall</Artist>
+        <Year>2007</Year>
+        <Title>Burnham Avenue Shops Mural</Title>
+        <Road>Burnham Avenue</Road>
+        <Area>Llanrumney</Area>
+        <Type>Integrated</Type>
+        <Teitl>Murlun Siopau Burnham Avenue</Teitl>
+        <Celfyddydwr>Kyle Legall</Celfyddydwr>
+        <Blwyddyn>2007</Blwyddyn>
+        <Ffordd>Burnham Avenue</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Burnham Avenue Shops Mural.jpg</URL>
+        <city>Cardiff</city>
+        <easting>322046</easting>
+        <northing>181464</northing>
+        <latitude>51.526686</latitude>
+        <longitude>-3.125083</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-200</id>
+        <Artist>Andrew Rowe, David Mackie and Heather Parnell</Artist>
+        <Year>2007</Year>
+        <Title>Fitzhamon Embankment</Title>
+        <Road>Fithamon Embankment</Road>
+        <Area>Riverside</Area>
+        <Type>Freestanding</Type>
+        <Teitl>Morglawdd Fitzhamon</Teitl>
+        <Celfyddydwr>David Mackie, Andrew Rowe a Heather Parnell</Celfyddydwr>
+        <Blwyddyn>2007</Blwyddyn>
+        <Ffordd>Morglawdd Fitzhamon</Ffordd>
+        <Ystyr>Mae�r pedwar cerflun hyn wedi eu hysbrydoli gan breswylwyr a phlant ysgol lleol o Riverside, ac maent yn cynrychioli hadau a sbeisys a ddefnyddir mewn ryseitiau lleol.</Ystyr>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Fitzhamon Embankment.jpg</URL>
+        <city>Cardiff</city>
+        <easting>317938</easting>
+        <northing>175910</northing>
+        <latitude>51.476175</latitude>
+        <longitude>-3.182992</longitude>
+        <description>Inspired by local residents and school children from Riverside, these four sculptures represent seeds and spices used in local recipes.</description>
+    </artwork>
+    <artwork>
+        <id>CDF-201</id>
+        <Title>Building Fa�ade - 36 to 38 Queen Street</Title>
+        <Road>Queen Street</Road>
+        <Area>Cathays</Area>
+        <Type>Integrated</Type>
+        <Teitl>Tu Allan Adeilad � 36 to 38 Heol-y-Frenhines</Teitl>
+        <Celfyddydwr>-</Celfyddydwr>
+        <Blwyddyn>0</Blwyddyn>
+        <Ffordd>Heol-y-Frenhines</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Building Facade - 36 to 38 Queen Street.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318380</easting>
+        <northing>176528</northing>
+        <latitude>51.481795</latitude>
+        <longitude>-3.176772</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-202</id>
+        <Title>Lamp Stands</Title>
+        <Road>Law Courts, Civic Centre</Road>
+        <Area>Cathays</Area>
+        <Type>Street Furniture</Type>
+        <Teitl>Standiau Lamp</Teitl>
+        <Celfyddydwr>-</Celfyddydwr>
+        <Blwyddyn>0</Blwyddyn>
+        <Ffordd>Llysoedd Barn, Y Ganolfan Ddinesig</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Lamp Stands.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318179</easting>
+        <northing>176848</northing>
+        <latitude>51.484643</latitude>
+        <longitude>-3.17974</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-204</id>
+        <Title>Mosaic - Tharsis Close</Title>
+        <Road>Tharis Close</Road>
+        <Area>Adamsdown</Area>
+        <Type>Integrated</Type>
+        <Teitl>Mosaig� Tharsis Close</Teitl>
+        <Celfyddydwr>-</Celfyddydwr>
+        <Blwyddyn>0</Blwyddyn>
+        <Ffordd>Tharsis Close</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Mosaic - Tharsis Close.jpg</URL>
+        <city>Cardiff</city>
+        <easting>319136</easting>
+        <northing>176225</northing>
+        <latitude>51.47918</latitude>
+        <longitude>-3.165818</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-205</id>
+        <Year>2007</Year>
+        <Title>The Gift of Life Stone</Title>
+        <Road>Alexandra Gardens, Civic Centre</Road>
+        <Area>Cathays</Area>
+        <Type>Commemorative</Type>
+        <Teitl>Carreg Rhodd Bywyd</Teitl>
+        <Celfyddydwr>-</Celfyddydwr>
+        <Blwyddyn>2007</Blwyddyn>
+        <Ffordd>Gerddi Alexandra, Y Ganolfan Ddinesig</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/The Gift of Life Stone.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318062</easting>
+        <northing>177153</northing>
+        <latitude>51.487367</latitude>
+        <longitude>-3.181496</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-206</id>
+        <Artist>Nansi Nemmings</Artist>
+        <Year>2007</Year>
+        <Title>Wood Sculpture - Daffodils</Title>
+        <Road>Bute Park</Road>
+        <Area>Cathays</Area>
+        <Type>Freestanding</Type>
+        <Teitl>Cerflun Pren � Cennin Pedr</Teitl>
+        <Celfyddydwr>Nansi Hemmings</Celfyddydwr>
+        <Blwyddyn>2007</Blwyddyn>
+        <Ffordd>Parc Bute</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Wood Sculpture - Daffodils.jpg</URL>
+        <city>Cardiff</city>
+        <easting>317814</easting>
+        <northing>176650</northing>
+        <latitude>51.48281</latitude>
+        <longitude>-3.184949</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-207</id>
+        <Artist>Nansi Hemmings</Artist>
+        <Year>2007</Year>
+        <Title>Wood Sculpture - Woodpecker</Title>
+        <Road>Bute Park</Road>
+        <Area>Cathays</Area>
+        <Type>Freestanding</Type>
+        <Teitl>Cerflun Pren � Cnocell y Coed</Teitl>
+        <Celfyddydwr>Nansi Hemmings</Celfyddydwr>
+        <Blwyddyn>2007</Blwyddyn>
+        <Ffordd>Parc Bute</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Wood Sculpture - Woodpecker.jpg</URL>
+        <city>Cardiff</city>
+        <easting>317204</easting>
+        <northing>177737</northing>
+        <latitude>51.492492</latitude>
+        <longitude>-3.193987</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-209</id>
+        <Artist>Andrew Rowe</Artist>
+        <Year>2007</Year>
+        <Title>Welsh Millennium Milepost</Title>
+        <Road>Roald Dahl Plass</Road>
+        <Area>Butetown</Area>
+        <Type>Street Furniture</Type>
+        <Teitl>Postyn Milltir Mileniwm Cymru</Teitl>
+        <Celfyddydwr>Andrew Rowe</Celfyddydwr>
+        <Blwyddyn>2007</Blwyddyn>
+        <Ffordd>Plas Roald Dahl</Ffordd>
+        <Ystyr>Ceir pedwar gwahanol ddyluniad o garreg filltir wedi eu lleoli ar hyd y wlad. Mae�r fersiwn hyn yn seiliedig ar themau�r treftadaeth morwrol a diwydiannol.</Ystyr>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Welsh Millennium Milepost.jpg</URL>
+        <city>Cardiff</city>
+        <easting>319205</easting>
+        <northing>174617</northing>
+        <latitude>51.464734</latitude>
+        <longitude>-3.164457</longitude>
+        <description>There are four different designs of milepost located across the country. This version is based upon the themes of nautical and industrial heritage.</description>
+    </artwork>
+    <artwork>
+        <id>CDF-210</id>
+        <Title>Wood Sculpture - Bute Park 3</Title>
+        <Road>Bute Park</Road>
+        <Area>Cathays</Area>
+        <Type>Freestanding</Type>
+        <Teitl>Cerflun Pren � Parc Bute 3</Teitl>
+        <Celfyddydwr>-</Celfyddydwr>
+        <Blwyddyn>0</Blwyddyn>
+        <Ffordd>Parc Bute</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Wood Sculpture - Bute Park 3.jpg</URL>
+        <city>Cardiff</city>
+        <easting>317735</easting>
+        <northing>176626</northing>
+        <latitude>51.482582</latitude>
+        <longitude>-3.186081</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-211</id>
+        <Artist>Jean-Bernard Metais</Artist>
+        <Year>2009</Year>
+        <Title>Alliance</Title>
+        <Road>Hayes Place</Road>
+        <Area>Cathays</Area>
+        <Type>Freestanding</Type>
+        <Teitl>Cynghrair</Teitl>
+        <Celfyddydwr>Jean-Bernard Metais</Celfyddydwr>
+        <Blwyddyn>2009</Blwyddyn>
+        <Ffordd>Plas yr Aes</Ffordd>
+        <Ystyr>Gan gyfeirio at brif r�l y mor yn hanes economaidd y ddinas, mae'r cylch 'Alliance' yn cynnwys hylif gweladwy sy'n esgyn a disgyn gyda symudiad y llanw.</Ystyr>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Alliance.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318457</easting>
+        <northing>176112</northing>
+        <latitude>51.478066</latitude>
+        <longitude>-3.175567</longitude>
+        <description>Referencing the major role of the sea in the city's economic history, 'Alliance's' hoop contains a visible liquid that rises and falls with the movement of the tide.</description>
+    </artwork>
+    <artwork>
+        <id>CDF-212</id>
+        <Artist>Gitta Gschwendtner</Artist>
+        <Year>2009</Year>
+        <Title>Animal Wall (Century Wharf)</Title>
+        <Road>River Taff Walkway (At Century Wharf)</Road>
+        <Area>Butetown</Area>
+        <Type>Integrated</Type>
+        <Teitl>Wal Anfeiliaid (Century Wharf)</Teitl>
+        <Celfyddydwr>Gitta Gschwendtner</Celfyddydwr>
+        <Blwyddyn>2009</Blwyddyn>
+        <Ffordd>Llwybr Afon Taf, Century Wharf</Ffordd>
+        <Ystyr>Mae�r wal yn cynnwys 1000 o flychau adar ac ystlumod sydd wedi creu cynefin newydd i fywyd gwyllt ar lannau Afon Taf.</Ystyr>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Animal Wall (Century Wharf).jpg</URL>
+        <city>Cardiff</city>
+        <easting>318620</easting>
+        <northing>174679</northing>
+        <latitude>51.465208</latitude>
+        <longitude>-3.17289</longitude>
+        <description>The wall consists of 1000 bird and bat boxes that have created a new wildlife habitat along the banks of the River Taff.</description>
+    </artwork>
+    <artwork>
+        <id>CDF-213</id>
+        <Artist>Andrew Rowe</Artist>
+        <Year>2001</Year>
+        <Title>Balcony Grills</Title>
+        <Road>Bute Mansions, Schooner Way</Road>
+        <Area>Butetown</Area>
+        <Type>Integrated</Type>
+        <Teitl>Rheiliau Balconi</Teitl>
+        <Celfyddydwr>Andrew Rowe</Celfyddydwr>
+        <Blwyddyn>2001</Blwyddyn>
+        <Ffordd>Plastai Bute, Schooner Way</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Balcony Grills.jpg</URL>
+        <city>Cardiff</city>
+        <easting>319144</easting>
+        <northing>175443</northing>
+        <latitude>51.472151</latitude>
+        <longitude>-3.165524</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-214</id>
+        <Year>2009</Year>
+        <Title>Century Wharf Railings</Title>
+        <Road>Dumballs Road</Road>
+        <Area>Butetown</Area>
+        <Type>Street Furniture</Type>
+        <Teitl>Rheilins Century Wharf</Teitl>
+        <Celfyddydwr>-</Celfyddydwr>
+        <Blwyddyn>2009</Blwyddyn>
+        <Ffordd>Dumballs Road</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Century Wharf Railings.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318677</easting>
+        <northing>175058</northing>
+        <latitude>51.468623</latitude>
+        <longitude>-3.172157</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-215</id>
+        <Artist>Bedwyr Williams</Artist>
+        <Year>2009</Year>
+        <Title>Chess in the Hayes</Title>
+        <Road>Hayes Island</Road>
+        <Area>Cathays</Area>
+        <Type>Free Standing</Type>
+        <Teitl>Setiau Gwyddbwyll</Teitl>
+        <Celfyddydwr>Bedwyr Williams</Celfyddydwr>
+        <Blwyddyn>2009</Blwyddyn>
+        <Ffordd>Ynys yr Aes</Ffordd>
+        <Ystyr>Mae'r pedwar Bwrdd Gwyddbwyll ar gael at ddefnydd unrhyw un a gallwch fenthyg darnau gwyddbwyll o'r Ganolfan Groeso gerllaw yn yr Hen Lyfrgell.</Ystyr>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Chess in the Hayes.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318368</easting>
+        <northing>176302</northing>
+        <latitude>51.479762</latitude>
+        <longitude>-3.176892</longitude>
+        <description>The four Chess Tables are available for anyone to use and chess pieces can be borrowed from the nearby Tourist Information Centre in the Old Library.</description>
+    </artwork>
+    <artwork>
+        <id>CDF-216</id>
+        <Artist>Adrian Stewart</Artist>
+        <Year>2009</Year>
+        <Title>Connect 4 or 5</Title>
+        <Road>Wood Street Railway Bridge</Road>
+        <Area>Grangetown</Area>
+        <Type>Integrated</Type>
+        <Teitl>Cysylltu 4 neu 5</Teitl>
+        <Celfyddydwr>Adrian Stewart</Celfyddydwr>
+        <Blwyddyn>2009</Blwyddyn>
+        <Ffordd>Pont Rheilffordd Stryd Wood</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Connect 4 or 5.jpg</URL>
+        <city>Cardiff</city>
+        <easting>317984</easting>
+        <northing>175859</northing>
+        <latitude>51.475724</latitude>
+        <longitude>-3.182318</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-217</id>
+        <Artist>Andrew Rowe and Simon Fenoulhet</Artist>
+        <Year>2010</Year>
+        <Title>Delta Street Seating</Title>
+        <Road>Delta Street</Road>
+        <Area>Riverside</Area>
+        <Type>Street Furniture</Type>
+        <Teitl>Seddi Delta Street</Teitl>
+        <Celfyddydwr>Andrew Rowe a Simon Fenoulhet</Celfyddydwr>
+        <Blwyddyn>2010</Blwyddyn>
+        <Ffordd>Delta Street</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Delta Street Seating.jpg</URL>
+        <city>Cardiff</city>
+        <easting>316734</easting>
+        <northing>176505</northing>
+        <latitude>51.481348</latitude>
+        <longitude>-3.200464</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-218</id>
+        <Artist>Andrew Small</Artist>
+        <Year>2010</Year>
+        <Title>Flip</Title>
+        <Road>Plymouth Street, Queen Street</Road>
+        <Area>Cathays</Area>
+        <Type>Street Furniture</Type>
+        <Teitl>Troi</Teitl>
+        <Celfyddydwr>Andrew Small</Celfyddydwr>
+        <Blwyddyn>2010</Blwyddyn>
+        <Ffordd>Plymouth Street, Heol-y-frenhines</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Flip.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318356</easting>
+        <northing>176523</northing>
+        <latitude>51.481747</latitude>
+        <longitude>-3.177116</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-219</id>
+        <Artist>Nia Wyn Jones</Artist>
+        <Year>2008</Year>
+        <Title>Gren Sculpture</Title>
+        <Road>Media Wales Building, Park Street</Road>
+        <Area>Cathays</Area>
+        <Type>Integrated</Type>
+        <Teitl>Teyrnged Cerflun Gren</Teitl>
+        <Celfyddydwr>Nia Wyn Jones</Celfyddydwr>
+        <Blwyddyn>2008</Blwyddyn>
+        <Ffordd>Adeilad Media Wales, Heol y Parc</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Gren Sculpture.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318061</easting>
+        <northing>176033</northing>
+        <latitude>51.477299</latitude>
+        <longitude>-3.18125</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-220</id>
+        <Artist>Mark Renn and Mick Thacker</Artist>
+        <Year>2009</Year>
+        <Title>Lighthouse</Title>
+        <Road>James Street / Dumballs Road</Road>
+        <Area>Butetown</Area>
+        <Type>Freestanding</Type>
+        <Teitl>Goleudy</Teitl>
+        <Celfyddydwr>Mark Renn a Mick Thacker</Celfyddydwr>
+        <Blwyddyn>2009</Blwyddyn>
+        <Ffordd>Gorsaf Heddlu Bute Town</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Lighthouse.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318764</easting>
+        <northing>174611</northing>
+        <latitude>51.464617</latitude>
+        <longitude>-3.170802</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-221</id>
+        <Artist>Kyle Legall</Artist>
+        <Year>2008</Year>
+        <Title>Loudoun Square Hoardings</Title>
+        <Road>Loudoun Square</Road>
+        <Area>Butetown</Area>
+        <Type>Temporary</Type>
+        <Teitl>Loudoun Square Hoardings</Teitl>
+        <Celfyddydwr>Kyle Legall</Celfyddydwr>
+        <Blwyddyn>2008</Blwyddyn>
+        <Ffordd>Sgw�r Loudoun, Butetown</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Loudoun Square Hoardings.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318870</easting>
+        <northing>175266</northing>
+        <latitude>51.470521</latitude>
+        <longitude>-3.169427</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-222</id>
+        <Artist>Kathy Dalwood and Anne Smyth</Artist>
+        <Year>2009</Year>
+        <Title>Medieval Town Wall</Title>
+        <Road>St David's Centre</Road>
+        <Area>Cathays</Area>
+        <Type>Interior</Type>
+        <Teitl>Wal Tref Ganoloesol</Teitl>
+        <Celfyddydwr>Kathy Dalwood ac Anne Smyth</Celfyddydwr>
+        <Blwyddyn>2009</Blwyddyn>
+        <Ffordd>Canolfan Dewi Sant</Ffordd>
+        <Ystyr>Wedi ei leoli ar y lwybr Wal y Dref Ganoloesol, mae'r gweithiau celf hyn yn cyfeirio at dreftadaeth hanesyddol Caerdydd gan gynnwys ei r�l fel canolfan fasnach a phorthladd masnach.</Ystyr>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Medieval Town Wall.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318413</easting>
+        <northing>176412</northing>
+        <latitude>51.480757</latitude>
+        <longitude>-3.17627</longitude>
+        <description>Located on the path of the Medieval Town Wall, these artworks reference Cardiff's history and heritage including its roles as a trading centre and trading port.</description>
+    </artwork>
+    <artwork>
+        <id>CDF-223</id>
+        <Year>1905</Year>
+        <Title>Obelisk Lamp Stands</Title>
+        <Road>Gorsedd Gardens Road</Road>
+        <Area>Cathays</Area>
+        <Type>Street Furniture</Type>
+        <Teitl>Stondinau Lamp Obelisg</Teitl>
+        <Celfyddydwr>-</Celfyddydwr>
+        <Blwyddyn>1905</Blwyddyn>
+        <Ffordd>Gorsedd Gardens Road</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Obelisk Lamp Stands.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318262</easting>
+        <northing>176858</northing>
+        <latitude>51.484744</latitude>
+        <longitude>-3.178547</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-224</id>
+        <Artist>Ann Catrin Evans</Artist>
+        <Year>2008</Year>
+        <Title>Pentyrch Street Seating</Title>
+        <Road>Pentyrch Street</Road>
+        <Area>Cathays</Area>
+        <Type>Street Furniture</Type>
+        <Teitl>Seddi Stryd Pentyrch</Teitl>
+        <Celfyddydwr>Ann Catrin Evans</Celfyddydwr>
+        <Blwyddyn>2008</Blwyddyn>
+        <Ffordd>Pentyrch Street</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Pentyrch Street Seating.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318031</easting>
+        <northing>178211</northing>
+        <latitude>51.496874</latitude>
+        <longitude>-3.182188</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-225</id>
+        <Artist>Jane Edden</Artist>
+        <Year>2009</Year>
+        <Title>Post Secrets</Title>
+        <Road>The Hayes</Road>
+        <Area>Cathays</Area>
+        <Type>Street Furniture</Type>
+        <Teitl>Cyfrinacahu'r Postion</Teitl>
+        <Celfyddydwr>Jane Edden</Celfyddydwr>
+        <Blwyddyn>2009</Blwyddyn>
+        <Ffordd>Yr Aes</Ffordd>
+        <Ystyr>Wedi�i leoli mewn 12 lleoliad ar hyd Yr Aes, mae�r bolardiau hyn yn cynnwys bydoedd bychan tri dimensiwn ynddyn nhw. Edrychwch drwy�r twll i weld y tu mewn iddynt.</Ystyr>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Post Secrets.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318383</easting>
+        <northing>176281</northing>
+        <latitude>51.479575</latitude>
+        <longitude>-3.176672</longitude>
+        <description>Situated at 12 locations along The Hayes, these bollards contain miniature three dimensional worlds within them. Look through the hole to see inside.</description>
+    </artwork>
+    <artwork>
+        <id>CDF-226</id>
+        <Artist>Amber Hiscott and David Pearl</Artist>
+        <Year>2008</Year>
+        <Title>Razor Shells</Title>
+        <Road>Callaghan Square</Road>
+        <Area>Butetown</Area>
+        <Type>Freestanding</Type>
+        <Teitl>Cregyn Cyllyll M�r</Teitl>
+        <Celfyddydwr>Amber Hiscott a David Pearl</Celfyddydwr>
+        <Blwyddyn>2008</Blwyddyn>
+        <Ffordd>Sgw�r Callaghan</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Razor Shells.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318420</easting>
+        <northing>175783</northing>
+        <latitude>51.475103</latitude>
+        <longitude>-3.176024</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-227</id>
+        <Artist>Maureen O'Kane</Artist>
+        <Year>2010</Year>
+        <Title>Somerset Street Mosaics</Title>
+        <Road>Somerset Street</Road>
+        <Area>Grangetown</Area>
+        <Type>Integrated</Type>
+        <Teitl>Mosaigiau Somerset Street</Teitl>
+        <Celfyddydwr>Maureen O'Kane</Celfyddydwr>
+        <Blwyddyn>2010</Blwyddyn>
+        <Ffordd>Somerset Street</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Somerset Street Mosaics.jpg</URL>
+        <city>Cardiff</city>
+        <easting>317348</easting>
+        <northing>175636</northing>
+        <latitude>51.473626</latitude>
+        <longitude>-3.191421</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-228</id>
+        <Artist>Andrew Smith</Artist>
+        <Year>2010</Year>
+        <Title>Splott Road Railway Bridge</Title>
+        <Road>Splott Road</Road>
+        <Area>Splott</Area>
+        <Type>Integrated</Type>
+        <Teitl>Pont Rheilffordd Splott Road</Teitl>
+        <Celfyddydwr>Andrew Smith</Celfyddydwr>
+        <Blwyddyn>2010</Blwyddyn>
+        <Ffordd>Splott Road</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Splott Road Railway Bridge.jpg</URL>
+        <city>Cardiff</city>
+        <easting>319971</easting>
+        <northing>176789</northing>
+        <latitude>51.484369</latitude>
+        <longitude>-3.153925</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-229</id>
+        <Artist>Peter Nicholas</Artist>
+        <Year>2009</Year>
+        <Title>Statue of Ivor Novello</Title>
+        <Road>Roald Dahl Plass</Road>
+        <Area>Butetown</Area>
+        <Type>Commemorative</Type>
+        <Teitl>Cerflun o Ivor Novello</Teitl>
+        <Celfyddydwr>Peter Nicholas</Celfyddydwr>
+        <Blwyddyn>2009</Blwyddyn>
+        <Ffordd>Plas Roald Dahl</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Statue of Ivor Novello.jpg</URL>
+        <city>Cardiff</city>
+        <easting>319255</easting>
+        <northing>174527</northing>
+        <latitude>51.463932</latitude>
+        <longitude>-3.163716</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-230</id>
+        <Artist>Roger Andrews</Artist>
+        <Year>2009</Year>
+        <Title>Statue of Sir Tasker Watkins VC</Title>
+        <Road>Westgate Plaza, Westgate Street</Road>
+        <Area>Cathays</Area>
+        <Type>Commemorative</Type>
+        <Teitl>Cerflun o Syr Tasker Watkins VC</Teitl>
+        <Celfyddydwr>Roger Andrews</Celfyddydwr>
+        <Blwyddyn>2009</Blwyddyn>
+        <Ffordd>Westgate Plaza, Heol y Porth</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Statue of Sir Tasker Watkins VC.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318033</easting>
+        <northing>176266</northing>
+        <latitude>51.479389</latitude>
+        <longitude>-3.181707</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-231</id>
+        <Title>The Marl Railings</Title>
+        <Road>Ferry Road</Road>
+        <Area>Grangetown</Area>
+        <Type>Street Furniture</Type>
+        <Teitl>Rheiliau The Marl</Teitl>
+        <Celfyddydwr>-</Celfyddydwr>
+        <Blwyddyn>0</Blwyddyn>
+        <Ffordd>Ferry Road</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/The Marl Railings.jpg</URL>
+        <city>Cardiff</city>
+        <easting>317895</easting>
+        <northing>174405</northing>
+        <latitude>51.46264</latitude>
+        <longitude>-3.183261</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-232</id>
+        <Artist>Lesley Kerman</Artist>
+        <Year>2009</Year>
+        <Title>The Secrets of Cardiff</Title>
+        <Road>St David's Centre</Road>
+        <Area>Cathays</Area>
+        <Type>Interior</Type>
+        <Teitl>Cyfrinachau Caerdydd</Teitl>
+        <Celfyddydwr>Lesley Kerman</Celfyddydwr>
+        <Blwyddyn>2009</Blwyddyn>
+        <Ffordd>Canolfan Dewi Sant</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/The Secrets of Cardiff.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318550</easting>
+        <northing>176264</northing>
+        <latitude>51.479446</latitude>
+        <longitude>-3.174263</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-233</id>
+        <Artist>Andrew Small</Artist>
+        <Year>2009</Year>
+        <Title>The Spending Time Machine and the Triphid</Title>
+        <Road>Constellation Street</Road>
+        <Area>Adamsdown</Area>
+        <Type>Street Furniture</Type>
+        <Teitl>Y Peiriant Amser Gwario a'r Triphid</Teitl>
+        <Celfyddydwr>Andrew Small</Celfyddydwr>
+        <Blwyddyn>2009</Blwyddyn>
+        <Ffordd>Constellation Street</Ffordd>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/The Spending Time Machine and the Triphid.jpg</URL>
+        <city>Cardiff</city>
+        <easting>319591</easting>
+        <northing>176601</northing>
+        <latitude>51.482625</latitude>
+        <longitude>-3.159353</longitude>
+        <description/>
+    </artwork>
+    <artwork>
+        <id>CDF-234</id>
+        <Artist>Denis O'Conor and Bernie Rutter (Sculptureworks)</Artist>
+        <Year>2011</Year>
+        <Title>Without Place</Title>
+        <Road>Charles Street</Road>
+        <Area>Cathays</Area>
+        <Type>Freestanding</Type>
+        <Teitl>Heb Le</Teitl>
+        <Celfyddydwr>Denis O'Conor a Bernie Rutter (Sculptureworks)</Celfyddydwr>
+        <Blwyddyn>2011</Blwyddyn>
+        <Ffordd>Heol Charles</Ffordd>
+        <Ystyr>Yn wreiddiol roedd Heol Charles yn stryd breswyl brysur � siopau, swyddfeydd bywiog ac amrywiaeth o fasnach a gwasanaethau. Mae Without Place yn rhoi arlliw o orffennol diwylliannol Heol Charles.</Ystyr>
+        <URL>http://isharemaps.cardiff.gov.uk/ishare/images/art/Without Place.jpg</URL>
+        <city>Cardiff</city>
+        <easting>318529</easting>
+        <northing>176567</northing>
+        <latitude>51.482167</latitude>
+        <longitude>-3.174636</longitude>
+        <description>Originally a busy residential street with bustling shops, offices and a range of trades and services, Without Place provides a trace of Charles Streets past cultural history.</description>
+    </artwork>
+</artworks>
