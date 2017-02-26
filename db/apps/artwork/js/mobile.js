@@ -1,23 +1,22 @@
 var compass_points = ["N","NNE","NE","ENE","E","ESE","SE","SSE","S","SSW","SW","WSW","W","WNW","NW","NNW"];
-
-var here_icon = "http://maps.google.com/mapfiles/kml/pal4/icon49.png";
-var nearest_icon = "http://maps.google.com/mapfiles/kml/pal2/icon4.png";
-var tree_icon = "http://maps.google.com/mapfiles/kml/pal2/icon12.png";
+var stem = "/artworks/";
+var here_icon = stem+"assets/redbullseye.png";
+var nearest_icon = stem+"assets/camera-highlight.png";
+var art_icon = stem+"assets/camera.png";
 
 var infowindow = null;
 var markers = {};
 var map;
 var here ;
-var trees;
+var artworks;
 
 var debug = false;
-var debug2 = false;
 var latitude= 0;
 var longitude= 0 ;
 var last_lat = 0;
 var last_long= 0;
 
-var load_range = 0;
+var load_range = 10000;
 var load_lat =0;
 var load_long =0;
 
@@ -94,38 +93,42 @@ function initialize_map(lat , lng){
 
 /*
  *  structures
- *    trees  array of tree objects laoded via AJAX
- *        tree has properties:
- *            id - tree id
- *            latin - latin name
- *            common - common name
- *            latitude, longitude - tree position
- *            girth - if not 0 is girth in cms
- *            state - tree state  
+ *    artworks  array of artwork objects loaded via AJAX
+ *        art has properties:Title,Artist,description)
+ *            id - artwork id
+ *            Title
+ *            Artist
+ *            latitude, longitude - artwork position
+ *            description
  * 
- *   selection
+ *    selection
  *         0 - [distance, direction from point]
- *         1 - tree
+ *         1 - artworkk
  */
 
 function update_map_markers(selection) {
    var live = {};
+   if (debug) alert("selection length "+selection.length);
+   if (debug) alert("last"+selection[selection.length - 1][1].id);
    for (i in selection){
-       var tree =selection[i][1];
-       var id =tree.id;
+       var obj =selection[i][1];
+       var id =obj.id;
        var mark =  markers[id];
-       if (debug) alert(id);
+       var html =  "<div>"+obj.id+" <em>"+obj.Title+"</em>"+ "             &#160;<br/>";
+       if (obj.Artist != undefined) html += " <em>"+obj.Artist+"</em> ";
+       if (obj.Year != undefined) html += " Created " + obj.Year;
+       if (obj.description != undefined) html+= "<br/>" + obj.description;
+       html += "</div>";
+       
        if (mark == undefined )   {    // missing 
-               var position = new google.maps.LatLng(tree.latitude,tree.longitude);
-               var icon = tree_icon;
-               var girth = "";
-               if (tree.girth != undefined) girth = " girth " + tree.girth + "cm";
+               var position = new google.maps.LatLng(obj.latitude,obj.longitude);
+               var icon = art_icon;
                var marker = new google.maps.Marker({
                  position: position,
-                 title: tree.latin + " " + tree.id,
+                 title: obj.Title + " " + obj.id,
                  map: map,
                  icon: icon,
-                 html: "<div><em>"+tree.latin+"</em>"+ "<br/><b>" + tree.common +"</b>"+"<br/>"+tree.state + girth +"<br/> " +tree.id+"</div>"
+                 html: html
               });
               markers[id]=marker;
               live[id]=1;
@@ -146,17 +149,17 @@ function update_map_markers(selection) {
        }  
    }
    if (selection.length > 0) {
-       var tree = selection[0][1]
-       var near_id = tree.id;
+       var obj = selection[0][1];
+       var near_id = obj.id;
        if (near_id != last_near_id) {
-          if (last_near_id != "") markers[last_near_id].setIcon(tree_icon);
+          if (last_near_id != "") markers[last_near_id].setIcon(art_icon);
           markers[near_id].setIcon(nearest_icon);
           last_near_id =  near_id;
        }   
      }
    else {
       if (last_near_id != "") {
-          markers[last_near_id].setIcon(tree_icon);   
+          markers[last_near_id].setIcon(art_icon);   
           last_near_id = "";
       }
    }
@@ -170,21 +173,20 @@ function update_map_here(lat,lng) {
 
 // web page updating
 
-// update the 'nearest'div on the web page from a selection
+// update the 'nearest' div on the web page from a selection
 function update_page_nearest(selection) {
        var dist_dir = selection[0];
-       var tree = selection[1];
+       var obj = selection[1];
        var dist = Math.round(dist_dir[0]);
        var dir =  Math.round(dist_dir[1]);
-       var id = tree.id;
-       var girth = "";
-       if (tree.girth != undefined) girth = " Girth " + tree.girth + "cm";
+       var id = obj.id;
 
-       var div = "<div>"+"<em>"+tree.latin+"</em><br/>";
-       div += "<b>"+tree.common+"</b> ";
-       if (editing) div +=  "<a target='_blank' href='../trees/edittree.xq?id="+tree.id+"'>"+id + "</a>"
-       div += " "+tree.state+"<br/>";
-       div += girth +' [' + dist+ "m at " + dir + '° ' + compass_point(dir)  +  ']'+"</div>";
+       var div = "<div>"+"<em>"+obj.Title+"</em><br/>";
+       if (obj.Artist  !=undefined) div += "<b>"+obj.Artist+"</b> ";
+       if (editing) div +=  "<a target='_blank' href='"+stem+"edit-artwork.xq?id="+id+"'>Edit</a>"
+       if (obj.Year  !=undefined ) div += " "+obj.Year+"<br/>";
+       if (obj.description !=undefined) div+= "<div>"+obj.description+"</div>"
+       div += ' [' + dist+ "m at " + dir + '° ' + compass_point(dir)  +  ']'+"</div>";
        div += "</div>"
        $('#nearest').html(div);
 }
@@ -194,65 +196,66 @@ function update_page_nearest(selection) {
 function update_page_latlong(latitude,longitude) {
     var span = "<span>"+round_degrees(latitude)+","+round_degrees(longitude);
     if (editing) 
-        span += " <a href='../trees/edittree.xq?latitude="+latitude+"&longitude="+longitude+"'> Add Tree</a>";
+        span += " <a href='"+stem+"edit-artwork.xq?latitude="+latitude+"&longitude="+longitude+"'> Add Artwork</a>";
     span += "</span>";
     $('#latlong').html(span);
 }
 
-// update the number of loaded trees
+// update the number of loaded artworks
 function update_page_loaded() {
-    $('#trees').html(trees.tree.length);
+    $('#artworks').html(artworks.artwork.length);
 }
 
 /* 
-   * load trees from external script
+   * load art from external script
  */
  
-function load_trees() {
-     var url = "http://bristoltrees.space/trees/trees-in-range.xq?latitude="+latitude+"&longitude="+longitude+"&range="+load_range;
-     if (debug2) alert (url);
+function load_artworks() {
+     var url = stem+"art-in-range.xq?latitude="+latitude+"&longitude="+longitude+"&range="+load_range;
+     if(debug) alert (url);
      //start ajax request
      $.ajax({
           url: url,
           //force to handle it as text
            dataType: "text",
            success: function(data) {
-                trees = $.parseJSON(data);
-                trees_loaded() ;
+                artworks = $.parseJSON(data);
+                art_loaded() ;
            }  
       });
 }
 
-function trees_loaded() {
+function art_loaded() {
+    if(debug) alert("loaded");
     update_page_loaded();
     load_lat = latitude;
     load_long = longitude;
-    update_trees();
+    update_art();
 }
 
 /*
- * select trees within range
- * input - trees  
+ * select art within range
+ * input - art  
  *       lat, long  position
  *       range - distance in m from position
  * 
- * output - selection of trees in order of increasing distance from position within range, augmented with distance and direction
+ * output - selection of art in order of increasing distance from position within range, augmented with distance and direction
  */
 
 function nearby(lat,lng,range) {
      var selection =[];
-     for (k in trees.tree) {
-         var tree = trees.tree[k];
-         var dist_dir = distance_direction(lat,lng,tree.latitude,tree.longitude);
+     for (k in artworks.artwork) {
+         var art = artworks.artwork[k];
+         var dist_dir = distance_direction(lat,lng,art.latitude,art.longitude);
           if (dist_dir[0] <= range) 
-             selection.push([dist_dir,tree]);
+             selection.push([dist_dir,art]);
        }
      return selection.sort(sort_0);       
 }
 
 //  main page and map updater
 
-function update_trees() {
+function update_art() {
      view_range = $('#view_range').val(); 
      if (debug) alert (latitude + "," + longitude + ","+view_range);
      var selection = nearby(latitude,longitude,view_range);
@@ -273,25 +276,24 @@ function set_position(position) {
     }
     latitude = round_degrees(position.coords.latitude);
     longitude = round_degrees(position.coords.longitude);
-
+    if (debug) alert("set position");
     if (map == undefined)  
         initialize_map(latitude , longitude);
     update_map_here(latitude,longitude);
     update_page_latlong(latitude,longitude);
     
-    load_range = $('#load_range').val();
     var offset = distance_direction(load_lat,load_long,latitude,longitude)[0];
     var out_of_range = offset > Number(load_range) * 0.9;
 //    $('#status').html('offset '+offset + ' : ' + out_of_range);
     if (debug) alert("Distance from load position "+offset);
-    if ( out_of_range || trees == undefined) {
-        load_trees();
+    if ( out_of_range || artworks == undefined) {
+        load_artworks();
     }
     else {
       var d =  distance_direction(last_lat,last_long,latitude,longitude);
       if (debug) alert("distance from last update " + d[0]);
       if (d[0] > delta) {           
-            update_trees();
+            update_art();
       }      
     }
  }
@@ -331,5 +333,6 @@ function errorFunction(position) {
 }
 
 $(document).ready(function() { 
+     if(debug) alert("initialize");
      get_position();
   });
